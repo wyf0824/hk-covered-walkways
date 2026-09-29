@@ -1,0 +1,255 @@
+{
+  "schemaVersion": "1.0",
+  "verifiedAt": "2026-09-29",
+  "timezone": "Asia/Hong_Kong",
+  "scope": "Four property-to-MTR pairs only. Official webpages and schematic evidence were checked separately where present. No route geometry was inferred, and no Google walking route was used as covered-route evidence.",
+  "records": [
+    {
+      "id": "mong-kok-east-moko",
+      "place": {
+        "nameZh": "MOKO新世紀廣場",
+        "nameEn": "MOKO",
+        "category": "shopping_mall"
+      },
+      "officialAddress": "193 Prince Edward Road West, Mongkok, Kowloon, Hong Kong",
+      "station": {
+        "nameZh": "旺角東",
+        "nameEn": "Mong Kok East"
+      },
+      "officialStationAccess": "Official MOKO page lists Mong Kok East — Exit D.",
+      "officialSources": [
+        {
+          "url": "https://www.moko.com.hk/en/about-moko/to-moko/",
+          "exactText": "MOKO is located above the MTR Mong Kok East Station",
+          "supports": [
+            "place identity",
+            "address",
+            "above-station relationship"
+          ]
+        },
+        {
+          "url": "https://www.moko.com.hk/en/about-moko/to-moko/",
+          "exactText": "Mong Kok East — D",
+          "supports": [
+            "official property page's listed station exit"
+          ]
+        }
+      ],
+      "officialConnectionClaim": "above_station_relationship_verified; explicit enclosed/direct connector wording not stated",
+      "sourceMapEvidence": {
+        "status": "direct_schematic_line_confirmed",
+        "finding": "The MOKO evidence crop shows a thin horizontal line with direct endpoints between the Mong Kok East station circle and the MOKO building diamond. The original map legend labels the thin line 有蓋通道.",
+        "legendExactText": "有蓋通道",
+        "imageEvidenceIncluded": false,
+        "limitation": "The original schematic/crops are not included in this package; this summary preserves the prior check and cannot be independently rechecked from this bundle."
+      },
+      "graphRecord": {
+        "edgeId": "covered-link-064",
+        "reviewStatus": "image_confirmed",
+        "waypointsAreImagePixels": true
+      },
+      "coveredStatus": {
+        "sourceMap": "shown_as_covered_in_user_supplied_schematic",
+        "officialPropertyPage": "covered-path claim not stated",
+        "fieldVerified": false,
+        "qualification": "The schematic supports that the map author categorized this depicted segment as covered; it does not establish precise geometry, current closure/access, street exposure, step-free access, or opening-hour conditions."
+      },
+      "realWorldGeometryStatus": "not_verified",
+      "suggestedMapDescription": "MOKO 新世紀廣場 · 旺角東站 D 出口。MOKO 官方資料稱商場位於旺角東站上方；原始示意圖把兩者間的直接細線標作「有蓋通道」。此線為示意圖分類，未經實地路線／現況核實。"
+    },
+    {
+      "id": "prince-edward-pioneer-centre",
+      "place": {
+        "nameZh": "始創中心",
+        "nameEn": "Pioneer Centre",
+        "category": "shopping_mall"
+      },
+      "officialAddress": "750 Nathan Road, Kowloon, Hong Kong",
+      "station": {
+        "nameZh": "太子",
+        "nameEn": "Prince Edward"
+      },
+      "officialStationAccess": "Official Pioneer Centre page lists Prince Edward Station Exit B2 and Mong Kok East Station Exit B3.",
+      "officialSources": [
+        {
+          "url": "https://www.pioneer-centre.com.hk/en/location",
+          "exactText": "Address: 750 Nathan Road, Kowloon.",
+          "supports": [
+            "place identity",
+            "address"
+          ]
+        },
+        {
+          "url": "https://www.pioneer-centre.com.hk/en/location",
+          "exactText": "Prince Edward Station Exit B2",
+          "supports": [
+            "official property page's listed station exit"
+          ]
+        },
+        {
+          "url": "https://www.pioneer-centre.com.hk/en/location",
+          "exactText": "Mong Kok East Station Exit B3",
+          "supports": [
+            "alternative official station access"
+          ]
+        }
+      ],
+      "officialConnectionClaim": "not_stated",
+      "sourceMapEvidence": {
+        "status": "no_verified_source_map_edge",
+        "finding": "The project graph's official-access-prince-edward-pioneer-centre record has no source crop or image edge. The official page lists station exits but does not say there is a direct station connector.",
+        "legendExactText": "有蓋通道",
+        "imageEvidenceIncluded": false,
+        "limitation": "The original schematic/crops are not included in this package; this summary preserves the prior check and cannot be independently rechecked from this bundle."
+      },
+      "graphRecord": {
+        "edgeId": "official-access-prince-edward-pioneer-centre",
+        "reviewStatus": "official_access_only",
+        "sourceCrop": null
+      },
+      "coveredStatus": {
+        "sourceMap": "no_verified_covered_line",
+        "officialPropertyPage": "covered-path claim not stated",
+        "fieldVerified": false,
+        "qualification": "Do not mark this pin or a route to it as confirmed covered on the current evidence."
+      },
+      "realWorldGeometryStatus": "not_verified",
+      "suggestedMapDescription": "始創中心 · 太子站 B2 出口。官方位置頁列出 750 Nathan Road，並建議太子站 B2（另列旺角東站 B3）。官方資料沒有確認車站直連或有蓋路線。"
+    },
+    {
+      "id": "kwun-tong-apm",
+      "place": {
+        "nameZh": "apm（創紀之城五期）",
+        "nameEn": "apm",
+        "category": "shopping_mall"
+      },
+      "officialAddress": "No. 418 Kwun Tong Road, Kwun Tong, Kowloon",
+      "station": {
+        "nameZh": "觀塘",
+        "nameEn": "Kwun Tong"
+      },
+      "officialStationAccess": "Official apm transport page lists Kwun Tong Station Exit A2.",
+      "officialSources": [
+        {
+          "url": "https://www.hkapm.com.hk/transport/",
+          "exactText": "No. 418 Kwun Tong Road, Kwun Tong, Kowloon （港鐵-觀塘線觀塘站A2出口)",
+          "supports": [
+            "place identity",
+            "address",
+            "official property page's listed station exit"
+          ]
+        }
+      ],
+      "officialConnectionClaim": "not_stated",
+      "sourceMapEvidence": {
+        "status": "candidate_only",
+        "finding": "The source-map crop shows the APM building label and nearby railway/station symbols, but the project retained covered-link-111 as candidate with no waypoint trace; the station-to-building line cannot be confirmed from the supplied record/crop.",
+        "legendExactText": "有蓋通道",
+        "imageEvidenceIncluded": false,
+        "limitation": "The original schematic/crops are not included in this package; this summary preserves the prior check and cannot be independently rechecked from this bundle."
+      },
+      "graphRecord": {
+        "edgeId": "covered-link-111",
+        "reviewStatus": "candidate",
+        "waypoints": []
+      },
+      "coveredStatus": {
+        "sourceMap": "candidate_not_confirmed",
+        "officialPropertyPage": "covered-path claim not stated",
+        "fieldVerified": false,
+        "qualification": "The listed exit is approach guidance, not proof of a direct enclosed link or fully covered route."
+      },
+      "realWorldGeometryStatus": "not_verified",
+      "suggestedMapDescription": "apm（創紀之城五期）· 觀塘站 A2 出口。官方交通頁列出觀塘道 418 號及觀塘站 A2 出口；車站直連與有蓋路線尚未核實。"
+    },
+    {
+      "id": "kowloon-tong-festival-walk",
+      "place": {
+        "nameZh": "又一城",
+        "nameEn": "Festival Walk",
+        "category": "shopping_mall"
+      },
+      "officialAddress": "Festival Walk Management Office, Level 3, Festival Walk Tower, 80 Tat Chee Avenue, Kowloon Tong, Kowloon, Hong Kong",
+      "addressScope": "Official mall-address field for the management office; exact public entrance was not separately verified.",
+      "csvImportAddress": "80 Tat Chee Avenue, Kowloon Tong, Kowloon, Hong Kong",
+      "csvImportAddressNote": "Street-level address only for destination search. The official Level 3 management-office address is retained as source evidence, not used as the mall pin address; the exact public entrance is unverified.",
+      "station": {
+        "nameZh": "九龙塘",
+        "nameEn": "Kowloon Tong",
+        "lines": [
+          "Kwun Tong Line",
+          "East Rail Line"
+        ]
+      },
+      "officialStationAccess": "Exit C",
+      "mtrWayfindingIndex": {
+        "exitsListedForFestivalWalk": [
+          "C2",
+          "G",
+          "H"
+        ],
+        "gridReference": "X4",
+        "interpretation": "Wayfinding index only; it does not establish a covered route or which entrance is best for the mall."
+      },
+      "officialSources": [
+        {
+          "claim": "official_mall_address",
+          "status": "verified",
+          "source": "Festival Walk official Contact Us page",
+          "url": "https://www.festivalwalk.com.hk/en/contact-us",
+          "quote": "Mall Address Festival Walk Management Office, Level 3, Festival Walk Tower, 80 Tat Chee Avenue, Kowloon Tong, Kowloon, Hong Kong"
+        },
+        {
+          "claim": "mtr_station_exit_as_stated_by_mall",
+          "status": "verified",
+          "source": "Festival Walk official Visit Us page, MTR section",
+          "url": "https://www.festivalwalk.com.hk/en/visit-us",
+          "quote": "Exit C, Kowloon Tong Station (connected to MTR Kwun Tong Line and East Rail Line)"
+        },
+        {
+          "claim": "mtr_official_station_wayfinding_index",
+          "status": "cross_checked",
+          "source": "MTR Kowloon Tong Station street map, Leisure / Shopping index",
+          "url": "https://www.mtr.com.hk/archive/en/services/maps/kot.pdf",
+          "visualReading": "The Festival Walk row lists exit cells C2, G and H and grid reference X4.",
+          "note": "Visual wayfinding index; not evidence of covered passage continuity."
+        },
+        {
+          "claim": "direct_station_access",
+          "status": "officially_reported",
+          "source": "Hong Kong Home Affairs Department, Hong Kong Fun in 18 Districts",
+          "url": "https://www.gohk.gov.hk/en/spots/spot_detail.php?spot=Festival%20Walk",
+          "quote": "Festival Walk at Tat Chee Avenue in Kowloon Tong and with a direct access to Kowloon Tong MTR Station"
+        }
+      ],
+      "officialConnectionClaim": {
+        "status": "officially_reported",
+        "source": "Hong Kong Home Affairs Department, Hong Kong Fun in 18 Districts",
+        "url": "https://www.gohk.gov.hk/en/spots/spot_detail.php?spot=Festival%20Walk",
+        "quote": "Festival Walk at Tat Chee Avenue in Kowloon Tong and with a direct access to Kowloon Tong MTR Station"
+      },
+      "sourceMapEvidence": {
+        "status": "not_used_to_upgrade_covered_status",
+        "finding": "This place is not a node in the current station-mall graph; the official station access statement is preserved separately and does not create an image-verified graph edge.",
+        "imageEvidenceIncluded": false
+      },
+      "graphRecord": {
+        "presentInCurrentGraph": false,
+        "historicalRecordCaveat": "Do not reuse the approximate Festival Walk coordinate or full-coverage claim in the project's older data/map-data.md. That record is absent from the current station-mall graph and was not treated as verification."
+      },
+      "coveredStatus": {
+        "status": "not_verified",
+        "reason": "The official mall page identifies Exit C and the government page reports direct access, but neither specifies a continuously covered passage. Exit or direct-access evidence is not treated as proof of rain protection."
+      },
+      "realWorldGeometryStatus": "not_verified",
+      "coordinates": null,
+      "geometry": null,
+      "mapMarkerSuggestion": {
+        "style": "blue_dot",
+        "umbrella": false,
+        "connectionLine": false
+      },
+      "suggestedMapDescription": "又一城 Festival Walk · 80 Tat Chee Avenue, Kowloon Tong · 商场资料列出九龙塘站 C 出口；政府资料称可直接到达车站。有盖通道尚未核实。"
+    }
+  ]
+}

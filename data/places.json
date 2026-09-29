@@ -1,0 +1,3553 @@
+[
+  {
+    "id": "building-100-qrc",
+    "nameZh": "100 QRC",
+    "nameEn": "100 QRC",
+    "category": "building",
+    "aliases": [
+      "100 QRC",
+      "100-qrc",
+      "building-100-qrc"
+    ],
+    "sourceId": "100-qrc",
+    "imageX": 210,
+    "imageY": 1720,
+    "sourceRegion": "香港島/中環金鐘",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=100%20QRC%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-1881-heritage",
+    "nameZh": "1881 Heritage",
+    "nameEn": "1881 Heritage",
+    "category": "building",
+    "aliases": [
+      "1881 Heritage",
+      "1881-heritage",
+      "building-1881-heritage",
+      "1881 古蹟及文物館"
+    ],
+    "sourceId": "1881-heritage",
+    "imageX": 620,
+    "imageY": 1500,
+    "sourceRegion": "九龍/尖沙咀/旺角",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      },
+      {
+        "source": "building-audit-tsimshatsui/patch.json",
+        "sourceType": "image_visual",
+        "note": "The source map clearly shows the 1881 Heritage endpoint on the TST/East TST building spine."
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=1881%20Heritage%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-admiralty-centre",
+    "nameZh": "金鐘中心",
+    "nameEn": "金鐘中心",
+    "category": "building",
+    "aliases": [
+      "admiralty-centre",
+      "building-admiralty-centre",
+      "金鐘中心"
+    ],
+    "sourceId": "admiralty-centre",
+    "imageX": 520,
+    "imageY": 1550,
+    "sourceRegion": "中環/金鐘細節",
+    "sourceCrop": null,
+    "confidence": "medium",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E9%90%98%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-aeon-style",
+    "nameZh": "AEON STYLE",
+    "nameEn": "AEON STYLE",
+    "category": "building",
+    "aliases": [
+      "AEON STYLE",
+      "aeon-style",
+      "building-aeon-style"
+    ],
+    "sourceId": "aeon-style",
+    "imageX": 850,
+    "imageY": 1280,
+    "sourceRegion": "九龍/尖沙咀/旺角",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=AEON%20STYLE%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-airside",
+    "nameZh": "AIRSIDE",
+    "nameEn": "AIRSIDE",
+    "category": "building",
+    "aliases": [
+      "AIRSIDE",
+      "airside",
+      "building-airside"
+    ],
+    "sourceId": "airside",
+    "imageX": 945,
+    "imageY": 1110,
+    "sourceRegion": "九龍東/將軍澳",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=AIRSIDE%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-alexandra-house",
+    "nameZh": "歷山大廈",
+    "nameEn": "歷山大廈",
+    "category": "building",
+    "aliases": [
+      "alexandra-house",
+      "building-alexandra-house",
+      "歷山大廈"
+    ],
+    "sourceId": "alexandra-house",
+    "imageX": 430,
+    "imageY": 1555,
+    "sourceRegion": "中環/金鐘細節",
+    "sourceCrop": null,
+    "confidence": "medium",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%AD%B7%E5%B1%B1%E5%A4%A7%E5%BB%88%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-apm",
+    "nameZh": "APM",
+    "nameEn": "APM",
+    "category": "building",
+    "aliases": [
+      "APM",
+      "apm",
+      "building-apm",
+      "創紀之城五期",
+      "Millennium City Phase 5",
+      "apm-millennium-city-phase-5"
+    ],
+    "sourceId": "apm",
+    "imageX": 1035,
+    "imageY": 1100,
+    "sourceRegion": "香港島/中環金鐘",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      },
+      {
+        "source": "https://www.hkapm.com.hk/transport/",
+        "sourceType": "official_access",
+        "note": "Official apm transport page gives No. 418 Kwun Tong Road, Kwun Tong, Kowloon and Kwun Tong MTR Exit A2."
+      }
+    ],
+    "officialNameEn": "apm",
+    "officialNameZh": "apm（創紀之城五期）",
+    "officialAddressEn": "418 Kwun Tong Road, Kwun Tong, Kowloon, Hong Kong",
+    "officialAddressZh": "香港九龍觀塘道418號創紀之城五期",
+    "identitySourceUrl": "https://www.hkapm.com.hk/",
+    "officialAccess": {
+      "url": "https://www.hkapm.com.hk/transport/",
+      "station": "Kwun Tong",
+      "exit": "A2",
+      "connectionType": "station_connection",
+      "sourceType": "official_access"
+    },
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=APM%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-central-building",
+    "nameZh": "中建大廈",
+    "nameEn": "中建大廈",
+    "category": "building",
+    "aliases": [
+      "building-central-building",
+      "central-building",
+      "中建大廈"
+    ],
+    "sourceId": "central-building",
+    "imageX": 300,
+    "imageY": 1700,
+    "sourceRegion": "中環/金鐘局部",
+    "sourceCrop": "crops/central-station-buildings-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "image_coordinate_reviewed",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%BB%BA%E5%A4%A7%E5%BB%88%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-central-government-offices",
+    "nameZh": "政府總部",
+    "nameEn": "政府總部",
+    "category": "building",
+    "aliases": [
+      "building-central-government-offices",
+      "central-government-offices",
+      "政府總部"
+    ],
+    "sourceId": "central-government-offices",
+    "imageX": 350,
+    "imageY": 1550,
+    "sourceRegion": "中環/金鐘局部",
+    "sourceCrop": "crops/central-station-buildings-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "image_coordinate_reviewed",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%94%BF%E5%BA%9C%E7%B8%BD%E9%83%A8%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-central-market",
+    "nameZh": "中環街市",
+    "nameEn": "中環街市",
+    "category": "building",
+    "aliases": [
+      "building-central-market",
+      "central-market",
+      "中環街市"
+    ],
+    "sourceId": "central-market",
+    "imageX": 380,
+    "imageY": 1530,
+    "sourceRegion": "香港島/中環金鐘",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E7%92%B0%E8%A1%97%E5%B8%82%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-central-tower",
+    "nameZh": "中環大廈",
+    "nameEn": "中環大廈",
+    "category": "building",
+    "aliases": [
+      "building-central-tower",
+      "central-tower",
+      "中環大廈"
+    ],
+    "sourceId": "central-tower",
+    "imageX": 300,
+    "imageY": 1725,
+    "sourceRegion": "中環/金鐘局部",
+    "sourceCrop": "crops/central-station-buildings-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "image_coordinate_reviewed",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E7%92%B0%E5%A4%A7%E5%BB%88%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-chater-house",
+    "nameZh": "遮打大廈",
+    "nameEn": "遮打大廈",
+    "category": "building",
+    "aliases": [
+      "building-chater-house",
+      "chater-house",
+      "遮打大廈"
+    ],
+    "sourceId": "chater-house",
+    "imageX": 420,
+    "imageY": 1510,
+    "sourceRegion": "中環/金鐘細節",
+    "sourceCrop": null,
+    "confidence": "medium",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%81%AE%E6%89%93%E5%A4%A7%E5%BB%88%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-cheung-kong-centre",
+    "nameZh": "長江集團中心",
+    "nameEn": "長江集團中心",
+    "category": "building",
+    "aliases": [
+      "building-cheung-kong-centre",
+      "cheung-kong-centre",
+      "長江集團中心"
+    ],
+    "sourceId": "cheung-kong-centre",
+    "imageX": 400,
+    "imageY": 1800,
+    "sourceRegion": "中環/金鐘局部",
+    "sourceCrop": "crops/central-station-buildings-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "image_coordinate_reviewed",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E6%B1%9F%E9%9B%86%E5%9C%98%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-citic-tower",
+    "nameZh": "力寶中心",
+    "nameEn": "力寶中心",
+    "category": "building",
+    "aliases": [
+      "building-citic-tower",
+      "citic-tower",
+      "力寶中心"
+    ],
+    "sourceId": "citic-tower",
+    "imageX": 520,
+    "imageY": 1530,
+    "sourceRegion": "中環/金鐘細節",
+    "sourceCrop": null,
+    "confidence": "medium",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8A%9B%E5%AF%B6%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-city-gate",
+    "nameZh": "東薈城",
+    "nameEn": "東薈城",
+    "category": "building",
+    "aliases": [
+      "building-city-gate",
+      "city-gate",
+      "東薈城"
+    ],
+    "sourceId": "city-gate",
+    "imageX": 610,
+    "imageY": 80,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E8%96%88%E5%9F%8E%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-elements",
+    "nameZh": "圓方",
+    "nameEn": "圓方",
+    "category": "building",
+    "aliases": [
+      "building-elements",
+      "elements",
+      "圓方"
+    ],
+    "sourceId": "elements",
+    "imageX": 430,
+    "imageY": 1160,
+    "sourceRegion": "九龍/尖沙咀/旺角",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%9C%93%E6%96%B9%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-entertainment-building",
+    "nameZh": "娛樂行",
+    "nameEn": "娛樂行",
+    "category": "building",
+    "aliases": [
+      "building-entertainment-building",
+      "entertainment-building",
+      "娛樂行"
+    ],
+    "sourceId": "entertainment-building",
+    "imageX": 300,
+    "imageY": 1750,
+    "sourceRegion": "中環/金鐘局部",
+    "sourceCrop": "crops/central-station-buildings-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "image_coordinate_reviewed",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A8%9B%E6%A8%82%E8%A1%8C%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-exchange-square",
+    "nameZh": "交易廣場",
+    "nameEn": "交易廣場",
+    "category": "building",
+    "aliases": [
+      "building-exchange-square",
+      "exchange-square",
+      "交易廣場"
+    ],
+    "sourceId": "exchange-square",
+    "imageX": 300,
+    "imageY": 1550,
+    "sourceRegion": "中環/金鐘局部",
+    "sourceCrop": "crops/central-station-buildings-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "image_coordinate_reviewed",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%A4%E6%98%93%E5%BB%A3%E5%A0%B4%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-garden-road-3",
+    "nameZh": "花園道三號",
+    "nameEn": "花園道三號",
+    "category": "building",
+    "aliases": [
+      "building-garden-road-3",
+      "garden-road-3",
+      "花園道三號"
+    ],
+    "sourceId": "garden-road-3",
+    "imageX": 400,
+    "imageY": 1825,
+    "sourceRegion": "中環/金鐘局部",
+    "sourceCrop": "crops/central-station-buildings-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "image_coordinate_reviewed",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E5%9C%92%E9%81%93%E4%B8%89%E8%99%9F%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-global-finance-centre",
+    "nameZh": "環球大廈",
+    "nameEn": "環球大廈",
+    "category": "building",
+    "aliases": [
+      "building-global-finance-centre",
+      "global-finance-centre",
+      "環球大廈"
+    ],
+    "sourceId": "global-finance-centre",
+    "imageX": 300,
+    "imageY": 1600,
+    "sourceRegion": "中環/金鐘局部",
+    "sourceCrop": "crops/central-station-buildings-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "image_coordinate_reviewed",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%92%B0%E7%90%83%E5%A4%A7%E5%BB%88%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-grand-austin",
+    "nameZh": "Grand Austin",
+    "nameEn": "Grand Austin",
+    "category": "building",
+    "aliases": [
+      "Grand Austin",
+      "building-grand-austin",
+      "grand-austin"
+    ],
+    "sourceId": "grand-austin",
+    "imageX": 600,
+    "imageY": 1180,
+    "sourceRegion": "九龍/尖沙咀/旺角",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Austin%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-hang-hau-shopping",
+    "nameZh": "坑口購物城",
+    "nameEn": "坑口購物城",
+    "category": "building",
+    "aliases": [
+      "building-hang-hau-shopping",
+      "hang-hau-shopping",
+      "坑口購物城"
+    ],
+    "sourceId": "hang-hau-shopping",
+    "imageX": 990,
+    "imageY": 1950,
+    "sourceRegion": "將軍澳",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%9D%91%E5%8F%A3%E8%B3%BC%E7%89%A9%E5%9F%8E%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-harbour-city",
+    "nameZh": "海港城",
+    "nameEn": "海港城",
+    "category": "building",
+    "aliases": [
+      "building-harbour-city",
+      "harbour-city",
+      "海港城"
+    ],
+    "sourceId": "harbour-city",
+    "imageX": 400,
+    "imageY": 1190,
+    "sourceRegion": "九龍/尖沙咀/旺角",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E6%B8%AF%E5%9F%8E%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-hk-station-mall",
+    "nameZh": "香港站商場",
+    "nameEn": "香港站商場",
+    "category": "building",
+    "aliases": [
+      "building-hk-station-mall",
+      "hk-station-mall",
+      "香港站商場"
+    ],
+    "sourceId": "hk-station-mall",
+    "imageX": 300,
+    "imageY": 1520,
+    "sourceRegion": "香港島/中環金鐘",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E6%B8%AF%E7%AB%99%E5%95%86%E5%A0%B4%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-hkcec",
+    "nameZh": "會展",
+    "nameEn": "會展",
+    "category": "building",
+    "aliases": [
+      "building-hkcec",
+      "hkcec",
+      "會展"
+    ],
+    "sourceId": "hkcec",
+    "imageX": 630,
+    "imageY": 1560,
+    "sourceRegion": "香港島/中環金鐘",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9C%83%E5%B1%95%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-hong-kong-convention",
+    "nameZh": "香港會議展覽中心",
+    "nameEn": "香港會議展覽中心",
+    "category": "building",
+    "aliases": [
+      "building-hong-kong-convention",
+      "hong-kong-convention",
+      "香港會議展覽中心"
+    ],
+    "sourceId": "hong-kong-convention",
+    "imageX": 610,
+    "imageY": 1510,
+    "sourceRegion": "香港島/中環金鐘",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E6%B8%AF%E6%9C%83%E8%AD%B0%E5%B1%95%E8%A6%BD%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-hong-kong-university",
+    "nameZh": "香港大學",
+    "nameEn": "The University of Hong Kong",
+    "category": "campus",
+    "aliases": [
+      "building-hong-kong-university",
+      "hong-kong-university",
+      "香港大學",
+      "University of Hong Kong",
+      "HKU",
+      "香港大學校園"
+    ],
+    "sourceId": "hong-kong-university",
+    "imageX": 230,
+    "imageY": 1850,
+    "sourceRegion": "香港島／香港大學—中環／香港站",
+    "sourceCrop": "building-audit-hku-central/evidence/hku-core-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      },
+      {
+        "source": "building-audit-hku-central/patch.json",
+        "sourceType": "image_visual",
+        "note": "白底原圖清楚顯示香港大學菱形；官方校園名稱僅作命名/類別背景，不作校內覆蓋通道證明。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-hysan-place",
+    "nameZh": "希慎廣場",
+    "nameEn": "希慎廣場",
+    "category": "building",
+    "aliases": [
+      "building-hysan-place",
+      "hysan-place",
+      "希慎廣場"
+    ],
+    "sourceId": "hysan-place",
+    "imageX": 700,
+    "imageY": 1580,
+    "sourceRegion": "香港島/中環金鐘",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B8%8C%E6%85%8E%E5%BB%A3%E5%A0%B4%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-ifc",
+    "nameZh": "IFC",
+    "nameEn": "IFC",
+    "category": "building",
+    "aliases": [
+      "IFC",
+      "building-ifc",
+      "ifc"
+    ],
+    "sourceId": "ifc",
+    "imageX": 375,
+    "imageY": 1460,
+    "sourceRegion": "香港島/中環金鐘",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=IFC%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-ifc-mall",
+    "nameZh": "國際金融中心商場",
+    "nameEn": "IFC Mall",
+    "category": "mall",
+    "aliases": [
+      "building-ifc-mall",
+      "ifc-mall",
+      "國際金融中心商場",
+      "IFC Mall"
+    ],
+    "sourceId": "ifc-mall",
+    "imageX": 330,
+    "imageY": 1450,
+    "sourceRegion": "香港島／香港大學—中環／香港站",
+    "sourceCrop": "building-audit-hku-central/evidence/central-hkstation-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      },
+      {
+        "source": "building-audit-hku-central/patch.json",
+        "sourceType": "image_visual",
+        "note": "白底原圖在香港站附近清楚顯示國際金融中心商場；修正既有來源區域誤標，並保留與 IFC／IFC 一、二期的獨立名稱。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E9%9A%9B%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83%E5%95%86%E5%A0%B4%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-ifc-one",
+    "nameZh": "國際金融中心一期",
+    "nameEn": "國際金融中心一期",
+    "category": "building",
+    "aliases": [
+      "building-ifc-one",
+      "ifc-one",
+      "國際金融中心一期"
+    ],
+    "sourceId": "ifc-one",
+    "imageX": 345,
+    "imageY": 1500,
+    "sourceRegion": "中環/金鐘細節",
+    "sourceCrop": null,
+    "confidence": "medium",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E9%9A%9B%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83%E4%B8%80%E6%9C%9F%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-ifc-two",
+    "nameZh": "國際金融中心二期",
+    "nameEn": "國際金融中心二期",
+    "category": "building",
+    "aliases": [
+      "building-ifc-two",
+      "ifc-two",
+      "國際金融中心二期"
+    ],
+    "sourceId": "ifc-two",
+    "imageX": 365,
+    "imageY": 1490,
+    "sourceRegion": "中環/金鐘細節",
+    "sourceCrop": null,
+    "confidence": "medium",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E9%9A%9B%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83%E4%BA%8C%E6%9C%9F%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-jardine-house",
+    "nameZh": "怡和大廈",
+    "nameEn": "怡和大廈",
+    "category": "building",
+    "aliases": [
+      "building-jardine-house",
+      "jardine-house",
+      "怡和大廈"
+    ],
+    "sourceId": "jardine-house",
+    "imageX": 350,
+    "imageY": 1575,
+    "sourceRegion": "中環/金鐘局部",
+    "sourceCrop": "crops/central-station-buildings-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "image_coordinate_reviewed",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%80%A1%E5%92%8C%E5%A4%A7%E5%BB%88%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-k11-musea",
+    "nameZh": "K11 MUSEA",
+    "nameEn": "K11 MUSEA",
+    "category": "building",
+    "aliases": [
+      "K11 MUSEA",
+      "building-k11-musea",
+      "k11-musea",
+      "K11購物藝術館",
+      "K11 Musea"
+    ],
+    "sourceId": "k11-musea",
+    "imageX": 700,
+    "imageY": 1390,
+    "sourceRegion": "九龍/尖沙咀/旺角",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      },
+      {
+        "source": "building-audit-tsimshatsui/patch.json",
+        "sourceType": "image_visual",
+        "note": "The source map uses the older Chinese label K11購物藝術館 for the existing K11 MUSEA endpoint. Keep MUSEA as its stable current identity and do not merge it with the separate K11人文購物藝術館 node."
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=K11%20MUSEA%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-kowloon-bay-office",
+    "nameZh": "工業貿易大樓",
+    "nameEn": "工業貿易大樓",
+    "category": "building",
+    "aliases": [
+      "building-kowloon-bay-office",
+      "kowloon-bay-office",
+      "工業貿易大樓"
+    ],
+    "sourceId": "kowloon-bay-office",
+    "imageX": 920,
+    "imageY": 1135,
+    "sourceRegion": "九龍東/將軍澳",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B7%A5%E6%A5%AD%E8%B2%BF%E6%98%93%E5%A4%A7%E6%A8%93%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-kowloon-trade-centre",
+    "nameZh": "九龍貿易中心",
+    "nameEn": "九龍貿易中心",
+    "category": "building",
+    "aliases": [
+      "building-kowloon-trade-centre",
+      "九龍貿易中心"
+    ],
+    "sourceId": "九龍貿易中心",
+    "imageX": 420,
+    "imageY": 1350,
+    "sourceRegion": "九龍/尖沙咀/旺角",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B9%9D%E9%BE%8D%E8%B2%BF%E6%98%93%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-kwun-tong-apm",
+    "nameZh": "APM",
+    "nameEn": "APM",
+    "category": "building",
+    "aliases": [
+      "APM",
+      "building-kwun-tong-apm",
+      "kwun-tong-apm"
+    ],
+    "sourceId": "kwun-tong-apm",
+    "imageX": 1040,
+    "imageY": 1100,
+    "sourceRegion": "九龍東/將軍澳",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "identityResolution": {
+      "status": "duplicate_unresolved",
+      "possibleCanonicalBuildingId": "building-apm",
+      "sourceId": "kwun-tong-apm",
+      "note": "Same APM label and near-identical extracted coordinates as building-apm, but source-region attribution differs; no automatic merge."
+    },
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=APM%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-landmark",
+    "nameZh": "置地大廈",
+    "nameEn": "置地大廈",
+    "category": "building",
+    "aliases": [
+      "building-landmark",
+      "landmark",
+      "置地大廈"
+    ],
+    "sourceId": "landmark",
+    "imageX": 300,
+    "imageY": 1650,
+    "sourceRegion": "中環/金鐘局部",
+    "sourceCrop": "crops/central-station-buildings-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "image_coordinate_reviewed",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%BD%AE%E5%9C%B0%E5%A4%A7%E5%BB%88%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-langham-place",
+    "nameZh": "朗豪坊",
+    "nameEn": "朗豪坊",
+    "category": "building",
+    "aliases": [
+      "building-langham-place",
+      "langham-place",
+      "朗豪坊"
+    ],
+    "sourceId": "langham-place",
+    "imageX": 545,
+    "imageY": 1490,
+    "sourceRegion": "九龍/尖沙咀/旺角",
+    "sourceCrop": "outputs/map-ocr-extraction/evidence/batch002-mongkok-langham-actual-zoom.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "officialAddressEn": "8 Argyle Street, Mongkok, Kowloon, Hong Kong",
+    "identitySourceUrl": "https://www.langhamplace.com.hk/visit-us/contact-us",
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9C%97%E8%B1%AA%E5%9D%8A%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-legco",
+    "nameZh": "立法會",
+    "nameEn": "立法會",
+    "category": "building",
+    "aliases": [
+      "building-legco",
+      "legco",
+      "立法會"
+    ],
+    "sourceId": "legco",
+    "imageX": 445,
+    "imageY": 1535,
+    "sourceRegion": "中環/金鐘細節",
+    "sourceCrop": null,
+    "confidence": "medium",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E6%B3%95%E6%9C%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-lohas-mall",
+    "nameZh": "THE LOHAS",
+    "nameEn": "THE LOHAS",
+    "category": "building",
+    "aliases": [
+      "building-lohas-mall",
+      "lohas-mall",
+      "日出康城商場",
+      "The LOHAS",
+      "THE LOHAS",
+      "LOHAS Mall"
+    ],
+    "sourceId": "lohas-mall",
+    "imageX": 920,
+    "imageY": 1830,
+    "sourceRegion": "將軍澳",
+    "sourceCrop": null,
+    "confidence": "medium",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=THE%20LOHAS%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-mikiki",
+    "nameZh": "MIKIKI",
+    "nameEn": "MIKIKI",
+    "category": "building",
+    "aliases": [
+      "MIKIKI",
+      "building-mikiki",
+      "mikiki"
+    ],
+    "sourceId": "mikiki",
+    "imageX": 960,
+    "imageY": 1170,
+    "sourceRegion": "九龍東/將軍澳",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=MIKIKI%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-moko",
+    "nameZh": "MOKO",
+    "nameEn": "MOKO",
+    "category": "building",
+    "aliases": [
+      "MOKO",
+      "building-moko",
+      "moko",
+      "新世紀廣場",
+      "New Century Plaza",
+      "building-new-century-plaza",
+      "new-century-plaza"
+    ],
+    "sourceId": "moko",
+    "imageX": 850,
+    "imageY": 1000,
+    "sourceRegion": "九龍/尖沙咀/旺角",
+    "sourceCrop": "outputs/map-ocr-extraction/evidence/moko-endpoint-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "sourceIds": [
+      "moko",
+      "new-century-plaza"
+    ],
+    "mergedFrom": [
+      {
+        "id": "building-new-century-plaza",
+        "sourceId": "new-century-plaza",
+        "nameZh": "新世紀廣場",
+        "nameEn": "新世紀廣場",
+        "reviewStatus": "alias_candidate",
+        "canonicalIdentitySourceUrl": "https://www.moko.com.hk/en/about-moko/to-moko/"
+      }
+    ],
+    "canonicalIdentity": true,
+    "identitySourceUrl": "https://www.moko.com.hk/en/about-moko/to-moko/",
+    "officialNameEn": "MOKO",
+    "officialNameZh": "MOKO新世紀廣場",
+    "officialAddressEn": "193 Prince Edward Road West, Mongkok, Kowloon, Hong Kong",
+    "officialAddressZh": "香港九龍旺角太子道西193號",
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=MOKO%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-murray-hotel",
+    "nameZh": "香港美利酒店",
+    "nameEn": "香港美利酒店",
+    "category": "building",
+    "aliases": [
+      "building-murray-hotel",
+      "murray-hotel",
+      "香港美利酒店"
+    ],
+    "sourceId": "murray-hotel",
+    "imageX": 400,
+    "imageY": 1850,
+    "sourceRegion": "中環/金鐘局部",
+    "sourceCrop": "crops/central-station-buildings-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "image_coordinate_reviewed",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E6%B8%AF%E7%BE%8E%E5%88%A9%E9%85%92%E5%BA%97%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-new-town-plaza",
+    "nameZh": "新城市廣場",
+    "nameEn": "新城市廣場",
+    "category": "building",
+    "aliases": [
+      "building-new-town-plaza",
+      "new-town-plaza",
+      "新城市廣場"
+    ],
+    "sourceId": "new-town-plaza",
+    "imageX": 820,
+    "imageY": 380,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%9F%8E%E5%B8%82%E5%BB%A3%E5%A0%B4%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-new-town-plaza-2",
+    "nameZh": "新都城中心",
+    "nameEn": "新都城中心",
+    "category": "building",
+    "aliases": [
+      "building-new-town-plaza-2",
+      "new-town-plaza-2",
+      "新都城中心"
+    ],
+    "sourceId": "new-town-plaza-2",
+    "imageX": 960,
+    "imageY": 2030,
+    "sourceRegion": "將軍澳",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E9%83%BD%E5%9F%8E%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-pacific-place",
+    "nameZh": "太古廣場",
+    "nameEn": "太古廣場",
+    "category": "building",
+    "aliases": [
+      "building-pacific-place",
+      "pacific-place",
+      "太古廣場"
+    ],
+    "sourceId": "pacific-place",
+    "imageX": 535,
+    "imageY": 1510,
+    "sourceRegion": "香港島/中環金鐘",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%AA%E5%8F%A4%E5%BB%A3%E5%A0%B4%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-popcorn",
+    "nameZh": "PopCorn",
+    "nameEn": "PopCorn",
+    "category": "building",
+    "aliases": [
+      "Popcorn",
+      "building-popcorn",
+      "popcorn",
+      "PopCorn",
+      "PopCorn Mall"
+    ],
+    "sourceId": "popcorn",
+    "imageX": 1010,
+    "imageY": 1800,
+    "sourceRegion": "將軍澳",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=PopCorn%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-prince-building",
+    "nameZh": "太子大廈",
+    "nameEn": "太子大廈",
+    "category": "building",
+    "aliases": [
+      "building-prince-building",
+      "prince-building",
+      "太子大廈"
+    ],
+    "sourceId": "prince-building",
+    "imageX": 440,
+    "imageY": 1540,
+    "sourceRegion": "中環/金鐘細節",
+    "sourceCrop": null,
+    "confidence": "medium",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%AA%E5%AD%90%E5%A4%A7%E5%BB%88%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-sha-tin-public-library",
+    "nameZh": "沙田公共圖書館",
+    "nameEn": "沙田公共圖書館",
+    "category": "building",
+    "aliases": [
+      "building-sha-tin-public-library",
+      "sha-tin-public-library",
+      "沙田公共圖書館"
+    ],
+    "sourceId": "sha-tin-public-library",
+    "imageX": 885,
+    "imageY": 360,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%B2%99%E7%94%B0%E5%85%AC%E5%85%B1%E5%9C%96%E6%9B%B8%E9%A4%A8%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-sha-tin-racecourse",
+    "nameZh": "沙田馬場",
+    "nameEn": "沙田馬場",
+    "category": "building",
+    "aliases": [
+      "building-sha-tin-racecourse",
+      "sha-tin-racecourse",
+      "沙田馬場"
+    ],
+    "sourceId": "sha-tin-racecourse",
+    "imageX": 810,
+    "imageY": 415,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%B2%99%E7%94%B0%E9%A6%AC%E5%A0%B4%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-sha-tin-town-hall",
+    "nameZh": "沙田大會堂",
+    "nameEn": "沙田大會堂",
+    "category": "building",
+    "aliases": [
+      "building-sha-tin-town-hall",
+      "sha-tin-town-hall",
+      "沙田大會堂"
+    ],
+    "sourceId": "sha-tin-town-hall",
+    "imageX": 770,
+    "imageY": 350,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%B2%99%E7%94%B0%E5%A4%A7%E6%9C%83%E5%A0%82%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-taikoo-place",
+    "nameZh": "太古坊",
+    "nameEn": "太古坊",
+    "category": "building",
+    "aliases": [
+      "building-taikoo-place",
+      "taikoo-place",
+      "太古坊"
+    ],
+    "sourceId": "taikoo-place",
+    "imageX": 900,
+    "imageY": 1470,
+    "sourceRegion": "香港島/中環金鐘",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%AA%E5%8F%A4%E5%9D%8A%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-telford-gardens",
+    "nameZh": "德福花園",
+    "nameEn": "德福花園",
+    "category": "building",
+    "aliases": [
+      "building-telford-gardens",
+      "telford-gardens",
+      "德福花園"
+    ],
+    "sourceId": "telford-gardens",
+    "imageX": 980,
+    "imageY": 950,
+    "sourceRegion": "九龍東/將軍澳",
+    "sourceCrop": null,
+    "confidence": "medium",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%BE%B7%E7%A6%8F%E8%8A%B1%E5%9C%92%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-the-austin",
+    "nameZh": "The Austin",
+    "nameEn": "The Austin",
+    "category": "building",
+    "aliases": [
+      "The Austin",
+      "building-the-austin",
+      "the-austin"
+    ],
+    "sourceId": "the-austin",
+    "imageX": 600,
+    "imageY": 1270,
+    "sourceRegion": "九龍/尖沙咀/旺角",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=The%20Austin%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-the-henderson",
+    "nameZh": "The Henderson",
+    "nameEn": "The Henderson",
+    "category": "building",
+    "aliases": [
+      "The Henderson",
+      "building-the-henderson",
+      "the-henderson"
+    ],
+    "sourceId": "the-henderson",
+    "imageX": 450,
+    "imageY": 1740,
+    "sourceRegion": "中環/金鐘局部",
+    "sourceCrop": "crops/central-station-buildings-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "image_coordinate_reviewed",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=The%20Henderson%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-the-landmark",
+    "nameZh": "置地廣場",
+    "nameEn": "置地廣場",
+    "category": "building",
+    "aliases": [
+      "building-the-landmark",
+      "the-landmark",
+      "置地廣場"
+    ],
+    "sourceId": "the-landmark",
+    "imageX": 450,
+    "imageY": 1450,
+    "sourceRegion": "香港島/中環金鐘",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%BD%AE%E5%9C%B0%E5%BB%A3%E5%A0%B4%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-the-southside",
+    "nameZh": "The Southside",
+    "nameEn": "The Southside",
+    "category": "building",
+    "aliases": [
+      "The Southside",
+      "building-the-southside",
+      "the-southside"
+    ],
+    "sourceId": "the-southside",
+    "imageX": 300,
+    "imageY": 1960,
+    "sourceRegion": "香港島/中環金鐘",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=The%20Southside%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-tin-shui-wai-park",
+    "nameZh": "天水圍公園",
+    "nameEn": "天水圍公園",
+    "category": "building",
+    "aliases": [
+      "building-tin-shui-wai-park",
+      "tin-shui-wai-park",
+      "天水圍公園"
+    ],
+    "sourceId": "tin-shui-wai-park",
+    "imageX": 525,
+    "imageY": 165,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%85%AC%E5%9C%92%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-tko-gateway",
+    "nameZh": "TKO GATEWAY",
+    "nameEn": "TKO GATEWAY",
+    "category": "building",
+    "aliases": [
+      "TKO GATEWAY",
+      "building-tko-gateway",
+      "tko-gateway"
+    ],
+    "sourceId": "tko-gateway",
+    "imageX": 1060,
+    "imageY": 1990,
+    "sourceRegion": "將軍澳",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=TKO%20GATEWAY%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-top",
+    "nameZh": "T.O.P",
+    "nameEn": "T.O.P",
+    "category": "building",
+    "aliases": [
+      "T.O.P",
+      "building-top",
+      "top"
+    ],
+    "sourceId": "top",
+    "imageX": 850,
+    "imageY": 1050,
+    "sourceRegion": "九龍/尖沙咀/旺角",
+    "sourceCrop": "outputs/map-ocr-extraction/evidence/batch002-mongkok-east-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "officialAddressEn": "700 Nathan Road, Mong Kok, Kowloon, Hong Kong",
+    "identitySourceUrl": "https://www.top.com.hk/appIntro/en/",
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=T.O.P%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-tseung-kwan-o-centre",
+    "nameZh": "將軍澳中心",
+    "nameEn": "將軍澳中心",
+    "category": "building",
+    "aliases": [
+      "building-tseung-kwan-o-centre",
+      "tseung-kwan-o-centre",
+      "將軍澳中心",
+      "Park Central"
+    ],
+    "sourceId": "tseung-kwan-o-centre",
+    "imageX": 980,
+    "imageY": 1860,
+    "sourceRegion": "將軍澳",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%87%E8%BB%8D%E6%BE%B3%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-tuen-mun-government-offices",
+    "nameZh": "屯門政府合署",
+    "nameEn": "屯門政府合署",
+    "category": "building",
+    "aliases": [
+      "building-tuen-mun-government-offices",
+      "tuen-mun-government-offices",
+      "屯門政府合署"
+    ],
+    "sourceId": "tuen-mun-government-offices",
+    "imageX": 710,
+    "imageY": 215,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B1%AF%E9%96%80%E6%94%BF%E5%BA%9C%E5%90%88%E7%BD%B2%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-tuen-mun-hospital",
+    "nameZh": "屯門醫院",
+    "nameEn": "屯門醫院",
+    "category": "building",
+    "aliases": [
+      "building-tuen-mun-hospital",
+      "tuen-mun-hospital",
+      "屯門醫院"
+    ],
+    "sourceId": "tuen-mun-hospital",
+    "imageX": 530,
+    "imageY": 100,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B1%AF%E9%96%80%E9%86%AB%E9%99%A2%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-tuen-mun-market",
+    "nameZh": "屯門市場",
+    "nameEn": "屯門市場",
+    "category": "building",
+    "aliases": [
+      "building-tuen-mun-market",
+      "tuen-mun-market",
+      "屯門市場"
+    ],
+    "sourceId": "tuen-mun-market",
+    "imageX": 820,
+    "imageY": 130,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B1%AF%E9%96%80%E5%B8%82%E5%A0%B4%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-tuen-mun-park",
+    "nameZh": "屯門公園",
+    "nameEn": "屯門公園",
+    "category": "building",
+    "aliases": [
+      "building-tuen-mun-park",
+      "tuen-mun-park",
+      "屯門公園"
+    ],
+    "sourceId": "tuen-mun-park",
+    "imageX": 670,
+    "imageY": 150,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B1%AF%E9%96%80%E5%85%AC%E5%9C%92%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-tuen-mun-public-library",
+    "nameZh": "屯門公共圖書館",
+    "nameEn": "屯門公共圖書館",
+    "category": "building",
+    "aliases": [
+      "building-tuen-mun-public-library",
+      "tuen-mun-public-library",
+      "屯門公共圖書館"
+    ],
+    "sourceId": "tuen-mun-public-library",
+    "imageX": 710,
+    "imageY": 190,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B1%AF%E9%96%80%E5%85%AC%E5%85%B1%E5%9C%96%E6%9B%B8%E9%A4%A8%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-tuen-mun-town-hall",
+    "nameZh": "屯門大會堂",
+    "nameEn": "屯門大會堂",
+    "category": "building",
+    "aliases": [
+      "building-tuen-mun-town-hall",
+      "tuen-mun-town-hall",
+      "屯門大會堂"
+    ],
+    "sourceId": "tuen-mun-town-hall",
+    "imageX": 710,
+    "imageY": 165,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B1%AF%E9%96%80%E5%A4%A7%E6%9C%83%E5%A0%82%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-v-walk",
+    "nameZh": "VWalk",
+    "nameEn": "VWalk",
+    "category": "building",
+    "aliases": [
+      "VWalk",
+      "building-v-walk",
+      "v-walk"
+    ],
+    "sourceId": "v-walk",
+    "imageX": 620,
+    "imageY": 1050,
+    "sourceRegion": "九龍/尖沙咀/旺角",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=VWalk%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-west-kowloon-cultural-district",
+    "nameZh": "西九文化區",
+    "nameEn": "西九文化區",
+    "category": "building",
+    "aliases": [
+      "building-west-kowloon-cultural-district",
+      "west-kowloon-cultural-district",
+      "西九文化區"
+    ],
+    "sourceId": "west-kowloon-cultural-district",
+    "imageX": 420,
+    "imageY": 1260,
+    "sourceRegion": "九龍/尖沙咀/旺角",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%A5%BF%E4%B9%9D%E6%96%87%E5%8C%96%E5%8D%80%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-旺角中心",
+    "nameZh": "旺角中心",
+    "nameEn": "旺角中心",
+    "category": "building",
+    "aliases": [
+      "building-旺角中心",
+      "旺角中心"
+    ],
+    "sourceId": "旺角中心",
+    "imageX": 560,
+    "imageY": 1500,
+    "sourceRegion": "九龍/尖沙咀/旺角",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "map-extraction/nodes.json",
+        "sourceType": "image_visual",
+        "note": "原圖節點辨識；未獨立確認為商場。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%97%BA%E8%A7%92%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-isquare",
+    "nameZh": "國際廣場",
+    "nameEn": "iSQUARE",
+    "category": "building",
+    "aliases": [
+      "iSQUARE",
+      "國際廣場",
+      "building-isquare"
+    ],
+    "sourceId": "isquare",
+    "imageX": 625,
+    "imageY": 1530,
+    "sourceRegion": "九龍/尖沙咀/旺角",
+    "sourceCrop": "evidence/tst-isquare-connection.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "image_confirmed",
+    "evidence": [
+      {
+        "source": "map-ocr-extraction/batch-002-station-mall-links.json",
+        "sourceType": "image_visual",
+        "kind": "unmatched_building_observation",
+        "note": "尖沙咀站至國際廣場/iSQUARE 直接細線逐段核對；節點 ID 為本 graph 建立的穩定 source ID，不代表現場或官方核驗。",
+        "evidenceCrop": "evidence/tst-isquare-connection.jpg",
+        "observedCenterOriginal": [
+          625,
+          1530
+        ]
+      },
+      {
+        "source": "building-audit-tsimshatsui/patch.json",
+        "sourceType": "image_visual",
+        "note": "Reuse the existing image-confirmed stable node and covered-link-122 station edge."
+      }
+    ],
+    "sourceObservationId": "station-mall-002:unmatchedBuildingObservations[0]",
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E9%9A%9B%E5%BB%A3%E5%A0%B4%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-city-garden",
+    "nameZh": "城市花園",
+    "nameEn": "City Garden",
+    "category": "building",
+    "aliases": [
+      "building-city-garden",
+      "city-garden",
+      "城市花園",
+      "City Garden"
+    ],
+    "sourceId": "city-garden",
+    "imageX": 850,
+    "imageY": 1710,
+    "sourceRegion": "香港島/中環金鐘",
+    "sourceCrop": "building-audit-northpoint-shatin/northpoint-original.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-northpoint-shatin/northpoint-original.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可讀到建築標籤與菱形節點；坐標和完整拓撲仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%9F%8E%E5%B8%82%E8%8A%B1%E5%9C%92%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-chai-wan-centre",
+    "nameZh": "柴灣中心",
+    "nameEn": "Chai Wan Centre",
+    "category": "building",
+    "aliases": [
+      "building-chai-wan-centre",
+      "chai-wan-centre",
+      "柴灣中心",
+      "Chai Wan Centre"
+    ],
+    "sourceId": "chai-wan-centre",
+    "imageX": 850,
+    "imageY": 1785,
+    "sourceRegion": "香港島/中環金鐘",
+    "sourceCrop": "building-audit-northpoint-shatin/northpoint-original.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-northpoint-shatin/northpoint-original.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可讀到建築標籤與菱形節點；坐標和完整拓撲仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9F%B4%E7%81%A3%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-sha-tin-citylink-plaza",
+    "nameZh": "連城廣場",
+    "nameEn": "Citylink Plaza",
+    "category": "building",
+    "aliases": [
+      "building-sha-tin-citylink-plaza",
+      "sha-tin-citylink-plaza",
+      "連城廣場",
+      "Citylink Plaza"
+    ],
+    "sourceId": "sha-tin-citylink-plaza",
+    "imageX": 735,
+    "imageY": 450,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": "building-audit-northpoint-shatin/shatin-original.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-northpoint-shatin/shatin-original.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可讀到建築標籤與菱形節點；坐標和完整拓撲仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%80%A3%E5%9F%8E%E5%BB%A3%E5%A0%B4%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-sha-tin-plaza",
+    "nameZh": "沙田廣場",
+    "nameEn": "Sha Tin Plaza",
+    "category": "building",
+    "aliases": [
+      "building-sha-tin-plaza",
+      "sha-tin-plaza",
+      "沙田廣場",
+      "Sha Tin Plaza"
+    ],
+    "sourceId": "sha-tin-plaza",
+    "imageX": 685,
+    "imageY": 400,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": "building-audit-northpoint-shatin/shatin-original.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-northpoint-shatin/shatin-original.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可讀到建築標籤與菱形節點；坐標和完整拓撲仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%B2%99%E7%94%B0%E5%BB%A3%E5%A0%B4%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-sha-tin-centre",
+    "nameZh": "沙田中心",
+    "nameEn": "Sha Tin Centre",
+    "category": "building",
+    "aliases": [
+      "building-sha-tin-centre",
+      "sha-tin-centre",
+      "沙田中心",
+      "Sha Tin Centre"
+    ],
+    "sourceId": "sha-tin-centre",
+    "imageX": 610,
+    "imageY": 350,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": "building-audit-northpoint-shatin/shatin-original.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-northpoint-shatin/shatin-original.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可讀到建築標籤與菱形節點；坐標和完整拓撲仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%B2%99%E7%94%B0%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-lucky-plaza",
+    "nameZh": "好運中心",
+    "nameEn": "Lucky Plaza",
+    "category": "building",
+    "aliases": [
+      "building-lucky-plaza",
+      "lucky-plaza",
+      "好運中心",
+      "Lucky Plaza"
+    ],
+    "sourceId": "lucky-plaza",
+    "imageX": 665,
+    "imageY": 350,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": "building-audit-northpoint-shatin/shatin-original.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-northpoint-shatin/shatin-original.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可讀到建築標籤與菱形節點；坐標和完整拓撲仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A5%BD%E9%81%8B%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-hilton-plaza",
+    "nameZh": "希爾頓中心",
+    "nameEn": "Hilton Plaza",
+    "category": "building",
+    "aliases": [
+      "building-hilton-plaza",
+      "hilton-plaza",
+      "希爾頓中心",
+      "Hilton Plaza"
+    ],
+    "sourceId": "hilton-plaza",
+    "imageX": 820,
+    "imageY": 445,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": "building-audit-northpoint-shatin/shatin-original.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-northpoint-shatin/shatin-original.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可讀到建築標籤與菱形節點；坐標和完整拓撲仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B8%8C%E7%88%BE%E9%A0%93%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-new-town-plaza-phase-3",
+    "nameZh": "新城市廣場三期",
+    "nameEn": "New Town Plaza Phase 3",
+    "category": "building",
+    "aliases": [
+      "building-new-town-plaza-phase-3",
+      "new-town-plaza-phase-3",
+      "新城市廣場三期",
+      "New Town Plaza Phase 3"
+    ],
+    "sourceId": "new-town-plaza-phase-3",
+    "imageX": 820,
+    "imageY": 360,
+    "sourceRegion": "新界北部/屯元天",
+    "sourceCrop": "building-audit-northpoint-shatin/shatin-original.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-northpoint-shatin/shatin-original.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可讀到建築標籤與菱形節點；坐標和完整拓撲仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%9F%8E%E5%B8%82%E5%BB%A3%E5%A0%B4%E4%B8%89%E6%9C%9F%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-tseung-kwan-o-plaza",
+    "nameZh": "將軍澳廣場",
+    "nameEn": "Tseung Kwan O Plaza",
+    "category": "building",
+    "aliases": [
+      "building-tseung-kwan-o-plaza",
+      "tko-plaza",
+      "TKO Plaza",
+      "Tseung Kwan O Plaza",
+      "將軍澳廣場"
+    ],
+    "sourceId": "tseung-kwan-o-plaza",
+    "imageX": 1060,
+    "imageY": 1840,
+    "sourceRegion": "將軍澳",
+    "sourceCrop": "building-audit-tko-lohas/evidence/tko-core-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-tko-lohas/evidence/tko-core-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "原圖在將軍澳站附近以菱形節點標出「將軍澳廣場」；官方頁確認地址及 A2 出口。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%BB%A3%E5%A0%B4%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-fu-hong-garden",
+    "nameZh": "富康花園",
+    "nameEn": "Beverly Garden",
+    "category": "building",
+    "aliases": [
+      "building-fu-hong-garden",
+      "fu-hong-garden",
+      "Beverly Garden",
+      "富康花園"
+    ],
+    "sourceId": "fu-hong-garden",
+    "imageX": 1080,
+    "imageY": 1640,
+    "sourceRegion": "將軍澳",
+    "sourceCrop": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+        "sourceType": "image_visual",
+        "note": "PopCorn 上方垂直支線末端可讀到「富康花園」。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%BA%B7%E8%8A%B1%E5%9C%92%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-po-ying-garden",
+    "nameZh": "寶盈花園",
+    "nameEn": "Po Ying Garden",
+    "category": "building",
+    "aliases": [
+      "building-po-ying-garden",
+      "po-ying-garden",
+      "Po Ying Garden",
+      "寶盈花園"
+    ],
+    "sourceId": "po-ying-garden",
+    "imageX": 1090,
+    "imageY": 1760,
+    "sourceRegion": "將軍澳",
+    "sourceCrop": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+        "sourceType": "image_visual",
+        "note": "PopCorn 二期右側支線末端可讀到「寶盈花園」。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%AF%B6%E7%9B%88%E8%8A%B1%E5%9C%92%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-popcorn-ii",
+    "nameZh": "PopCorn 二期",
+    "nameEn": "PopCorn Phase II",
+    "category": "building",
+    "aliases": [
+      "building-popcorn-ii",
+      "PopCorn II",
+      "PopCorn Phase II",
+      "PopCorn 二期"
+    ],
+    "sourceId": "popcorn-ii",
+    "imageX": 1080,
+    "imageY": 1800,
+    "sourceRegion": "將軍澳",
+    "sourceCrop": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+        "sourceType": "image_visual",
+        "note": "PopCorn 節點右方標籤清楚寫有「PopCorn 二期」。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=PopCorn%20%E4%BA%8C%E6%9C%9F%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-the-wings",
+    "nameZh": "天晉",
+    "nameEn": "The Wings",
+    "category": "building",
+    "aliases": [
+      "building-the-wings",
+      "The Wings",
+      "天晉"
+    ],
+    "sourceId": "the-wings",
+    "imageX": 1030,
+    "imageY": 1840,
+    "sourceRegion": "將軍澳",
+    "sourceCrop": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+        "sourceType": "image_visual",
+        "note": "PopCorn 右下斜線分支標籤為「天晉」。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E6%99%89%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-the-wings-ii",
+    "nameZh": "天晉二期",
+    "nameEn": "The Wings II",
+    "category": "building",
+    "aliases": [
+      "building-the-wings-ii",
+      "The Wings II",
+      "天晉二期",
+      "天晉 II"
+    ],
+    "sourceId": "the-wings-ii",
+    "imageX": 980,
+    "imageY": 1840,
+    "sourceRegion": "將軍澳",
+    "sourceCrop": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+        "sourceType": "image_visual",
+        "note": "PopCorn 左下斜線分支標籤為「天晉二期」。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E6%99%89%E4%BA%8C%E6%9C%9F%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-sheung-tak-car-park",
+    "nameZh": "尚德停車場",
+    "nameEn": "Sheung Tak Car Park",
+    "category": "building",
+    "aliases": [
+      "building-sheung-tak-car-park",
+      "Sheung Tak Car Park",
+      "尚德停車場"
+    ],
+    "sourceId": "sheung-tak-car-park",
+    "imageX": 1020,
+    "imageY": 1640,
+    "sourceRegion": "將軍澳",
+    "sourceCrop": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+        "sourceType": "image_visual",
+        "note": "PopCorn 上方主幹中段標籤讀作「尚德停車場」。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%9A%E5%BE%B7%E5%81%9C%E8%BB%8A%E5%A0%B4%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-sheung-tak-plaza",
+    "nameZh": "尚德廣場",
+    "nameEn": "Sheung Tak Plaza",
+    "category": "building",
+    "aliases": [
+      "building-sheung-tak-plaza",
+      "Sheung Tak Plaza",
+      "尚德廣場"
+    ],
+    "sourceId": "sheung-tak-plaza",
+    "imageX": 1020,
+    "imageY": 1680,
+    "sourceRegion": "將軍澳",
+    "sourceCrop": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+        "sourceType": "image_visual",
+        "note": "尚德停車場下方主幹標籤讀作「尚德廣場」。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%9A%E5%BE%B7%E5%BB%A3%E5%A0%B4%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-tiu-keng-leng-public-library",
+    "nameZh": "調景嶺公共圖書館",
+    "nameEn": "Tiu Keng Leng Public Library",
+    "category": "building",
+    "aliases": [
+      "building-tiu-keng-leng-public-library",
+      "Tiu Keng Leng Public Library",
+      "調景嶺公共圖書館"
+    ],
+    "sourceId": "tiu-keng-leng-public-library",
+    "imageX": 980,
+    "imageY": 1880,
+    "sourceRegion": "將軍澳/調景嶺支線",
+    "sourceCrop": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+        "sourceType": "image_visual",
+        "note": "尚德廣場下方分叉左端可讀到「調景嶺公共圖書館」。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%AA%BF%E6%99%AF%E5%B6%BA%E5%85%AC%E5%85%B1%E5%9C%96%E6%9B%B8%E9%A4%A8%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-immigration-department-hq",
+    "nameZh": "入境事務處總部",
+    "nameEn": "Immigration Department Headquarters",
+    "category": "building",
+    "aliases": [
+      "building-immigration-department-hq",
+      "Immigration Department Headquarters",
+      "入境事務處總部"
+    ],
+    "sourceId": "immigration-department-hq",
+    "imageX": 1020,
+    "imageY": 1920,
+    "sourceRegion": "將軍澳/調景嶺支線",
+    "sourceCrop": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-tko-lohas/evidence/popcorn-labels-sharp.png",
+        "sourceType": "image_visual",
+        "note": "公共圖書館分叉下方主幹末端可讀到「入境事務處總部」。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%85%A5%E5%A2%83%E4%BA%8B%E5%8B%99%E8%99%95%E7%B8%BD%E9%83%A8%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-tiu-keng-leng-sports-centre",
+    "nameZh": "調景嶺體育館",
+    "nameEn": "Tiu Keng Leng Sports Centre",
+    "category": "building",
+    "aliases": [
+      "building-tiu-keng-leng-sports-centre",
+      "Tiu Keng Leng Sports Centre",
+      "調景嶺體育館"
+    ],
+    "sourceId": "tiu-keng-leng-sports-centre",
+    "imageX": 1020,
+    "imageY": 1880,
+    "sourceRegion": "將軍澳/調景嶺支線",
+    "sourceCrop": "building-audit-tko-lohas/evidence/popcorn.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-tko-lohas/evidence/popcorn.jpg",
+        "sourceType": "image_visual",
+        "note": "將軍澳廣場下方節點右側標籤清楚讀作「調景嶺體育館」。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%AA%BF%E6%99%AF%E5%B6%BA%E9%AB%94%E8%82%B2%E9%A4%A8%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-lohas-ruifeng",
+    "nameZh": "日出康城 睿峰",
+    "nameEn": "Lohas Park development (睿峰)",
+    "category": "building",
+    "aliases": [
+      "building-lohas-ruifeng",
+      "睿峰",
+      "日出康城 睿峰",
+      "Lohas Park 睿峰"
+    ],
+    "sourceId": "lohas-ruifeng",
+    "imageX": 920,
+    "imageY": 1830,
+    "sourceRegion": "康城",
+    "sourceCrop": "building-audit-tko-lohas/evidence/lohas-labels-sharp.png",
+    "confidence": "medium",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-tko-lohas/evidence/lohas-labels-sharp.png",
+        "sourceType": "image_visual",
+        "note": "康城站支線首個菱形節點標籤讀作「日出康城 睿峰」；第二行字樣保留中等信心。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E%20%E7%9D%BF%E5%B3%B0%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-marini",
+    "nameZh": "海茵莊園",
+    "nameEn": "Marini",
+    "category": "building",
+    "aliases": [
+      "building-marini",
+      "Marini",
+      "海茵莊園"
+    ],
+    "sourceId": "marini",
+    "imageX": 920,
+    "imageY": 1870,
+    "sourceRegion": "康城",
+    "sourceCrop": "building-audit-tko-lohas/evidence/lohas-labels-sharp.png",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-tko-lohas/evidence/lohas-labels-sharp.png",
+        "sourceType": "image_visual",
+        "note": "睿峰下方垂直鏈標籤為「海茵莊園」。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E8%8C%B5%E8%8E%8A%E5%9C%92%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-the-beaumount-ii",
+    "nameZh": "峻瀅II",
+    "nameEn": "The Beaumount II",
+    "category": "building",
+    "aliases": [
+      "building-the-beaumount-ii",
+      "The Beaumount II",
+      "峻瀅II",
+      "峻瀅二期"
+    ],
+    "sourceId": "the-beaumount-ii",
+    "imageX": 920,
+    "imageY": 1910,
+    "sourceRegion": "康城",
+    "sourceCrop": "building-audit-tko-lohas/evidence/lohas-labels-sharp.png",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-tko-lohas/evidence/lohas-labels-sharp.png",
+        "sourceType": "image_visual",
+        "note": "海茵莊園下方菱形節點標籤為「峻瀅II」。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B3%BB%E7%80%85II%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-lian-li-street",
+    "nameZh": "連理街",
+    "nameEn": "The Lane",
+    "category": "building",
+    "aliases": [
+      "building-lian-li-street",
+      "lian-li-street",
+      "連理街",
+      "The Lane"
+    ],
+    "sourceId": "lian-li-street",
+    "imageX": 1025,
+    "imageY": 2050,
+    "sourceRegion": "新界／將軍澳（坑口、寶琳）",
+    "sourceCrop": "building-audit-hanghau-polam/evidence/hanghau-polam-clean.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hanghau-polam/evidence/hanghau-polam-clean.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可讀到建築標籤與菱形節點；名稱、坐標及完整拓撲仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%80%A3%E7%90%86%E8%A1%97%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-nan-fung-plaza",
+    "nameZh": "南豐廣場",
+    "nameEn": "Nan Fung Plaza",
+    "category": "building",
+    "aliases": [
+      "building-nan-fung-plaza",
+      "nan-fung-plaza",
+      "南豐廣場",
+      "Nan Fung Plaza"
+    ],
+    "sourceId": "nan-fung-plaza",
+    "imageX": 1025,
+    "imageY": 2008,
+    "sourceRegion": "新界／將軍澳（坑口、寶琳）",
+    "sourceCrop": "building-audit-hanghau-polam/evidence/hanghau-polam-clean.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hanghau-polam/evidence/hanghau-polam-clean.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可讀到建築標籤與菱形節點；名稱、坐標及完整拓撲仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E8%B1%90%E5%BB%A3%E5%A0%B4%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-east-point-city",
+    "nameZh": "東港城",
+    "nameEn": "East Point City",
+    "category": "building",
+    "aliases": [
+      "building-east-point-city",
+      "east-point-city",
+      "東港城",
+      "East Point City"
+    ],
+    "sourceId": "east-point-city",
+    "imageX": 1075,
+    "imageY": 2050,
+    "sourceRegion": "新界／將軍澳（坑口、寶琳）",
+    "sourceCrop": "building-audit-hanghau-polam/evidence/hanghau-polam-clean.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hanghau-polam/evidence/hanghau-polam-clean.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可讀到建築標籤與菱形節點；名稱、坐標及完整拓撲仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%B8%AF%E5%9F%8E%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-hai-yue-wan",
+    "nameZh": "海悅豪園",
+    "nameEn": "Maritime Bay",
+    "category": "building",
+    "aliases": [
+      "building-hai-yue-wan",
+      "hai-yue-wan",
+      "海悅豪園",
+      "Maritime Bay"
+    ],
+    "sourceId": "hai-yue-wan",
+    "imageX": 1025,
+    "imageY": 2090,
+    "sourceRegion": "新界／將軍澳（坑口、寶琳）",
+    "sourceCrop": "building-audit-hanghau-polam/evidence/hanghau-polam-clean.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hanghau-polam/evidence/hanghau-polam-clean.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可讀到建築標籤與菱形節點；名稱、坐標及完整拓撲仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E6%82%85%E8%B1%AA%E5%9C%92%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-sunshine-city",
+    "nameZh": "新寶城",
+    "nameEn": "Sunshine City",
+    "category": "building",
+    "aliases": [
+      "building-sunshine-city",
+      "sunshine-city",
+      "新寶城",
+      "Sunshine City"
+    ],
+    "sourceId": "sunshine-city",
+    "imageX": 1025,
+    "imageY": 2130,
+    "sourceRegion": "新界／將軍澳（坑口、寶琳）",
+    "sourceCrop": "building-audit-hanghau-polam/evidence/hanghau-polam-clean.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hanghau-polam/evidence/hanghau-polam-clean.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可讀到建築標籤與菱形節點；名稱、坐標及完整拓撲仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AF%B6%E5%9F%8E%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-wah-ming-court",
+    "nameZh": "和明苑",
+    "nameEn": "Wo Ming Court",
+    "category": "building",
+    "aliases": [
+      "building-wah-ming-court",
+      "wo-ming-court",
+      "和明苑",
+      "Wo Ming Court",
+      "Wah Ming Court"
+    ],
+    "sourceId": "wo-ming-court",
+    "imageX": 1075,
+    "imageY": 2090,
+    "sourceRegion": "新界／將軍澳（坑口、寶琳）",
+    "sourceCrop": "building-audit-hanghau-polam/evidence/hanghau-polam-clean.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hanghau-polam/evidence/hanghau-polam-clean.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可讀到建築標籤與菱形節點；名稱、坐標及完整拓撲仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%98%8E%E8%8B%91%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-metro-city-phase-1",
+    "nameZh": "新都城一期",
+    "nameEn": "Metro City Phase 1",
+    "category": "building",
+    "aliases": [
+      "building-metro-city-phase-1",
+      "metro-city-phase-1",
+      "新都城一期",
+      "Metro City Phase 1"
+    ],
+    "sourceId": "metro-city-phase-1",
+    "imageX": 835,
+    "imageY": 2120,
+    "sourceRegion": "新界／將軍澳（坑口、寶琳）",
+    "sourceCrop": "building-audit-hanghau-polam/evidence/hanghau-polam-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hanghau-polam/evidence/hanghau-polam-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可讀到建築標籤與菱形節點；名稱、坐標及完整拓撲仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E9%83%BD%E5%9F%8E%E4%B8%80%E6%9C%9F%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-metro-city-phase-2",
+    "nameZh": "新都城二期",
+    "nameEn": "Metro City Phase 2",
+    "category": "building",
+    "aliases": [
+      "building-metro-city-phase-2",
+      "metro-city-phase-2",
+      "新都城二期",
+      "Metro City Phase 2"
+    ],
+    "sourceId": "metro-city-phase-2",
+    "imageX": 875,
+    "imageY": 2080,
+    "sourceRegion": "新界／將軍澳（坑口、寶琳）",
+    "sourceCrop": "building-audit-hanghau-polam/evidence/hanghau-polam-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hanghau-polam/evidence/hanghau-polam-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可讀到建築標籤與菱形節點；名稱、坐標及完整拓撲仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E9%83%BD%E5%9F%8E%E4%BA%8C%E6%9C%9F%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-metro-city-phase-3",
+    "nameZh": "新都城三期",
+    "nameEn": "Metro City Phase 3",
+    "category": "building",
+    "aliases": [
+      "building-metro-city-phase-3",
+      "metro-city-phase-3",
+      "新都城三期",
+      "Metro City Phase 3"
+    ],
+    "sourceId": "metro-city-phase-3",
+    "imageX": 835,
+    "imageY": 2080,
+    "sourceRegion": "新界／將軍澳（坑口、寶琳）",
+    "sourceCrop": "building-audit-hanghau-polam/evidence/hanghau-polam-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hanghau-polam/evidence/hanghau-polam-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可讀到建築標籤與菱形節點；名稱、坐標及完整拓撲仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E9%83%BD%E5%9F%8E%E4%B8%89%E6%9C%9F%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-general-post-office",
+    "nameZh": "郵政總局",
+    "nameEn": "General Post Office",
+    "category": "government",
+    "aliases": [
+      "building-general-post-office",
+      "general-post-office",
+      "郵政總局",
+      "General Post Office"
+    ],
+    "sourceId": "general-post-office",
+    "imageX": 375,
+    "imageY": 1545,
+    "sourceRegion": "香港島／香港大學—中環／香港站",
+    "sourceCrop": "building-audit-hku-central/evidence/central-hkstation-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hku-central/evidence/central-hkstation-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可清楚讀到建築標籤與菱形節點；完整拓撲及坐標仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%B5%E6%94%BF%E7%B8%BD%E5%B1%80%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-aia-central",
+    "nameZh": "友邦金融中心",
+    "nameEn": "AIA Central",
+    "category": "office",
+    "aliases": [
+      "building-aia-central",
+      "aia-central",
+      "友邦金融中心",
+      "AIA Central"
+    ],
+    "sourceId": "aia-central",
+    "imageX": 275,
+    "imageY": 1555,
+    "sourceRegion": "香港島／香港大學—中環／香港站",
+    "sourceCrop": "building-audit-hku-central/evidence/central-hkstation-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hku-central/evidence/central-hkstation-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可清楚讀到建築標籤與菱形節點；完整拓撲及坐標仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%8B%E9%82%A6%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-mandarin-oriental-hong-kong",
+    "nameZh": "香港文華東方酒店",
+    "nameEn": "Mandarin Oriental, Hong Kong",
+    "category": "hotel",
+    "aliases": [
+      "building-mandarin-oriental-hong-kong",
+      "mandarin-oriental-hong-kong",
+      "香港文華東方酒店",
+      "Mandarin Oriental, Hong Kong"
+    ],
+    "sourceId": "mandarin-oriental-hong-kong",
+    "imageX": 400,
+    "imageY": 1605,
+    "sourceRegion": "香港島／香港大學—中環／香港站",
+    "sourceCrop": "building-audit-hku-central/evidence/central-full-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hku-central/evidence/central-full-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可清楚讀到建築標籤與菱形節點；完整拓撲及坐標仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E6%B8%AF%E6%96%87%E8%8F%AF%E6%9D%B1%E6%96%B9%E9%85%92%E5%BA%97%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-standard-chartered-bank",
+    "nameZh": "渣打銀行大廈",
+    "nameEn": "Standard Chartered Bank Building",
+    "category": "office",
+    "aliases": [
+      "building-standard-chartered-bank",
+      "standard-chartered-bank-building",
+      "渣打銀行大廈",
+      "Standard Chartered Bank Building"
+    ],
+    "sourceId": "standard-chartered-bank-building",
+    "imageX": 450,
+    "imageY": 1675,
+    "sourceRegion": "香港島／香港大學—中環／香港站",
+    "sourceCrop": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可清楚讀到建築標籤與菱形節點；完整拓撲及坐標仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%B8%A3%E6%89%93%E9%8A%80%E8%A1%8C%E5%A4%A7%E5%BB%88%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-hsbc-main",
+    "nameZh": "滙豐銀行大廈",
+    "nameEn": "HSBC Main Building",
+    "category": "office",
+    "aliases": [
+      "building-hsbc-main",
+      "hsbc-main-building",
+      "滙豐銀行大廈",
+      "HSBC Main Building",
+      "匯豐銀行大廈"
+    ],
+    "sourceId": "hsbc-main-building",
+    "imageX": 525,
+    "imageY": 1675,
+    "sourceRegion": "香港島／香港大學—中環／香港站",
+    "sourceCrop": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可清楚讀到建築標籤與菱形節點；完整拓撲及坐標仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%BB%99%E8%B1%90%E9%8A%80%E8%A1%8C%E5%A4%A7%E5%BB%88%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-cheung-kong-centre-phase-2",
+    "nameZh": "長江集團中心二期",
+    "nameEn": "Cheung Kong Center Phase II",
+    "category": "office",
+    "aliases": [
+      "building-cheung-kong-centre-phase-2",
+      "cheung-kong-centre-phase-2",
+      "長江集團中心二期",
+      "Cheung Kong Center Phase II"
+    ],
+    "sourceId": "cheung-kong-centre-phase-2",
+    "imageX": 430,
+    "imageY": 1730,
+    "sourceRegion": "香港島／香港大學—中環／香港站",
+    "sourceCrop": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可清楚讀到建築標籤與菱形節點；完整拓撲及坐標仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E6%B1%9F%E9%9B%86%E5%9C%98%E4%B8%AD%E5%BF%83%E4%BA%8C%E6%9C%9F%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-bank-of-america-centre",
+    "nameZh": "美國銀行中心",
+    "nameEn": "Bank of America Tower",
+    "category": "office",
+    "aliases": [
+      "building-bank-of-america-centre",
+      "bank-of-america-centre",
+      "美國銀行中心",
+      "Bank of America Tower"
+    ],
+    "sourceId": "bank-of-america-centre",
+    "imageX": 550,
+    "imageY": 1730,
+    "sourceRegion": "香港島／香港大學—中環／香港站",
+    "sourceCrop": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可清楚讀到建築標籤與菱形節點；完整拓撲及坐標仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E5%9C%8B%E9%8A%80%E8%A1%8C%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-chinachem-centre",
+    "nameZh": "華懋中心",
+    "nameEn": "Chinachem Centre",
+    "category": "office",
+    "aliases": [
+      "building-chinachem-centre",
+      "chinachem-centre",
+      "華懋中心",
+      "Chinachem Centre"
+    ],
+    "sourceId": "chinachem-centre",
+    "imageX": 575,
+    "imageY": 1775,
+    "sourceRegion": "香港島／香港大學—中環／香港站",
+    "sourceCrop": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可清楚讀到建築標籤與菱形節點；完整拓撲及坐標仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8F%AF%E6%87%8B%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-chater-garden",
+    "nameZh": "遮打花園",
+    "nameEn": "Chater Garden",
+    "category": "garden",
+    "aliases": [
+      "building-chater-garden",
+      "chater-garden",
+      "遮打花園",
+      "Chater Garden"
+    ],
+    "sourceId": "chater-garden",
+    "imageX": 400,
+    "imageY": 1775,
+    "sourceRegion": "香港島／香港大學—中環／香港站",
+    "sourceCrop": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可清楚讀到建築標籤與菱形節點；完整拓撲及坐標仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%81%AE%E6%89%93%E8%8A%B1%E5%9C%92%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-citibank-centre",
+    "nameZh": "花旗銀行中心",
+    "nameEn": "Citibank Centre",
+    "category": "office",
+    "aliases": [
+      "building-citibank-centre",
+      "citibank-centre",
+      "花旗銀行中心",
+      "Citibank Centre"
+    ],
+    "sourceId": "citibank-centre",
+    "imageX": 330,
+    "imageY": 1740,
+    "sourceRegion": "香港島／香港大學—中環／香港站",
+    "sourceCrop": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可清楚讀到建築標籤與菱形節點；完整拓撲及坐標仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E6%97%97%E9%8A%80%E8%A1%8C%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-pacific-place-three",
+    "nameZh": "太古廣場三座",
+    "nameEn": "Pacific Place Three",
+    "category": "office",
+    "aliases": [
+      "building-pacific-place-three",
+      "pacific-place-three",
+      "太古廣場三座",
+      "Pacific Place Three"
+    ],
+    "sourceId": "pacific-place-three",
+    "imageX": 500,
+    "imageY": 1825,
+    "sourceRegion": "香港島／香港大學—中環／香港站",
+    "sourceCrop": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可清楚讀到建築標籤與菱形節點；完整拓撲及坐標仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%AA%E5%8F%A4%E5%BB%A3%E5%A0%B4%E4%B8%89%E5%BA%A7%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-high-court",
+    "nameZh": "高等法院",
+    "nameEn": "High Court",
+    "category": "government",
+    "aliases": [
+      "building-high-court",
+      "high-court",
+      "高等法院",
+      "High Court"
+    ],
+    "sourceId": "high-court",
+    "imageX": 550,
+    "imageY": 1825,
+    "sourceRegion": "香港島／香港大學—中環／香港站",
+    "sourceCrop": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可清楚讀到建築標籤與菱形節點；完整拓撲及坐標仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%AD%89%E6%B3%95%E9%99%A2%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-dch-building",
+    "nameZh": "東昌大廈",
+    "nameEn": "DCH Building",
+    "category": "office",
+    "aliases": [
+      "building-dch-building",
+      "dch-building",
+      "東昌大廈",
+      "DCH Building"
+    ],
+    "sourceId": "dch-building",
+    "imageX": 600,
+    "imageY": 1775,
+    "sourceRegion": "香港島／香港大學—中環／香港站",
+    "sourceCrop": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hku-central/evidence/central-lower-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可清楚讀到建築標籤與菱形節點；完整拓撲及坐標仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%98%8C%E5%A4%A7%E5%BB%88%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-hang-seng-bank-hq",
+    "nameZh": "恒生銀行總行",
+    "nameEn": "Hang Seng Bank Headquarters",
+    "category": "office",
+    "aliases": [
+      "building-hang-seng-bank-hq",
+      "hang-seng-bank-hq",
+      "恒生銀行總行",
+      "Hang Seng Bank Headquarters"
+    ],
+    "sourceId": "hang-seng-bank-hq",
+    "imageX": 220,
+    "imageY": 1620,
+    "sourceRegion": "香港島／香港大學—中環／香港站",
+    "sourceCrop": "building-audit-hku-central/evidence/central-full-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "building-audit-hku-central/evidence/central-full-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "白底原圖可清楚讀到建築標籤與菱形節點；完整拓撲及坐標仍標為候選。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%81%92%E7%94%9F%E9%8A%80%E8%A1%8C%E7%B8%BD%E8%A1%8C%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-kowloon-hotel",
+    "nameZh": "九龍酒店",
+    "nameEn": "The Kowloon Hotel",
+    "category": "building",
+    "aliases": [
+      "building-kowloon-hotel",
+      "Kowloon Hotel",
+      "The Kowloon Hotel",
+      "九龍酒店"
+    ],
+    "sourceId": "kowloon-hotel",
+    "imageX": 720,
+    "imageY": 1410,
+    "sourceRegion": "尖東",
+    "sourceCrop": "outputs/map-ocr-extraction/evidence/tst-k11-detail-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "outputs/map-ocr-extraction/evidence/tst-k11-detail-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "尖東主幹右側第二個菱形端點標籤清楚讀作「九龍酒店」。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B9%9D%E9%BE%8D%E9%85%92%E5%BA%97%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-sheraton-hong-kong",
+    "nameZh": "喜來登酒店",
+    "nameEn": "Sheraton Hong Kong Hotel & Towers",
+    "category": "building",
+    "aliases": [
+      "building-sheraton-hong-kong",
+      "Sheraton Hong Kong Hotel & Towers",
+      "Sheraton Hotel",
+      "喜來登酒店"
+    ],
+    "sourceId": "sheraton-hong-kong",
+    "imageX": 720,
+    "imageY": 1450,
+    "sourceRegion": "尖東",
+    "sourceCrop": "outputs/map-ocr-extraction/evidence/tst-k11-detail-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "candidate_image_reading",
+    "mapOccurrences": 2,
+    "evidence": [
+      {
+        "source": "outputs/map-ocr-extraction/evidence/tst-k11-detail-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "尖東主幹可見兩個「喜來登酒店」文字／端點出現；以同一現代酒店身份合併，未創造第二個建築 ID。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%96%9C%E4%BE%86%E7%99%BB%E9%85%92%E5%BA%97%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-k11-art-mall",
+    "nameZh": "K11人文購物藝術館",
+    "nameEn": "K11 Art Mall",
+    "category": "building",
+    "aliases": [
+      "building-k11-art-mall",
+      "K11 Art Mall",
+      "K11 Shopping Art Mall",
+      "K11人文購物藝術館"
+    ],
+    "sourceId": "k11-art-mall",
+    "imageX": 720,
+    "imageY": 1475,
+    "sourceRegion": "尖沙咀/尖東",
+    "sourceCrop": "outputs/map-ocr-extraction/evidence/tst-isquare-station-grid.jpg",
+    "confidence": "medium",
+    "coordinateReviewed": true,
+    "reviewStatus": "candidate_image_reading",
+    "historicalMapLabel": "K11人文購物藝術館",
+    "currentNameReview": "K11 Art Mall identity retained separately from K11 MUSEA; K11 ATELIER is not inferred.",
+    "evidence": [
+      {
+        "source": "outputs/map-ocr-extraction/evidence/tst-isquare-station-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "原圖右側獨立菱形端點讀作「K11人文購物藝術館」；不得與上方 K11購物藝術館／K11 MUSEA 合併。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=K11%E4%BA%BA%E6%96%87%E8%B3%BC%E7%89%A9%E8%97%9D%E8%A1%93%E9%A4%A8%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-hong-kong-space-museum",
+    "nameZh": "香港太空館",
+    "nameEn": "Hong Kong Space Museum",
+    "category": "building",
+    "aliases": [
+      "building-hong-kong-space-museum",
+      "Hong Kong Space Museum",
+      "香港太空館"
+    ],
+    "sourceId": "hong-kong-space-museum",
+    "imageX": 690,
+    "imageY": 1410,
+    "sourceRegion": "尖沙咀/尖東",
+    "sourceCrop": "outputs/map-ocr-extraction/evidence/tst-k11-detail-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "outputs/map-ocr-extraction/evidence/tst-k11-detail-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "K11 主幹左側垂直鏈上端菱形標籤為「香港太空館」。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E6%B8%AF%E5%A4%AA%E7%A9%BA%E9%A4%A8%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-hong-kong-cultural-centre",
+    "nameZh": "香港文化中心",
+    "nameEn": "Hong Kong Cultural Centre",
+    "category": "building",
+    "aliases": [
+      "building-hong-kong-cultural-centre",
+      "Hong Kong Cultural Centre",
+      "香港文化中心"
+    ],
+    "sourceId": "hong-kong-cultural-centre",
+    "imageX": 690,
+    "imageY": 1450,
+    "sourceRegion": "尖沙咀/尖東",
+    "sourceCrop": "outputs/map-ocr-extraction/evidence/tst-k11-detail-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "outputs/map-ocr-extraction/evidence/tst-k11-detail-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "香港太空館下方菱形及水平分支標籤為「香港文化中心」。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-one-peking",
+    "nameZh": "北京道一號",
+    "nameEn": "One Peking",
+    "category": "building",
+    "aliases": [
+      "building-one-peking",
+      "One Peking",
+      "北京道一號",
+      "北京道1號"
+    ],
+    "sourceId": "one-peking",
+    "imageX": 720,
+    "imageY": 1590,
+    "sourceRegion": "尖沙咀",
+    "sourceCrop": "outputs/map-ocr-extraction/evidence/tst-isquare-station-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "outputs/map-ocr-extraction/evidence/tst-isquare-station-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "尖沙咀主幹下方端點標籤讀作「北京道一號」。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E4%BA%AC%E9%81%93%E4%B8%80%E8%99%9F%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-new-sun-plaza",
+    "nameZh": "新太陽廣場",
+    "nameEn": "New Sun Plaza",
+    "category": "building",
+    "aliases": [
+      "building-new-sun-plaza",
+      "New Sun Plaza",
+      "新太陽廣場"
+    ],
+    "sourceId": "new-sun-plaza",
+    "imageX": 720,
+    "imageY": 1570,
+    "sourceRegion": "尖沙咀",
+    "sourceCrop": "outputs/map-ocr-extraction/evidence/tst-isquare-station-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "outputs/map-ocr-extraction/evidence/tst-isquare-station-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "尖沙咀主幹水平右支線末端標籤讀作「新太陽廣場」。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%A4%AA%E9%99%BD%E5%BB%A3%E5%A0%B4%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-mong-kok-government-offices",
+    "nameZh": "旺角政府合署",
+    "nameEn": "Mong Kok Government Offices",
+    "category": "building",
+    "aliases": [
+      "building-mong-kok-government-offices",
+      "Mong Kok Government Offices",
+      "旺角政府合署"
+    ],
+    "sourceId": "mong-kok-government-offices",
+    "imageX": 925,
+    "imageY": 1015,
+    "sourceRegion": "旺角東",
+    "sourceCrop": "outputs/map-ocr-extraction/evidence/batch002-mongkok-east-grid.jpg",
+    "confidence": "high",
+    "coordinateReviewed": true,
+    "reviewStatus": "candidate_image_reading",
+    "evidence": [
+      {
+        "source": "outputs/map-ocr-extraction/evidence/batch002-mongkok-east-grid.jpg",
+        "sourceType": "image_visual",
+        "note": "旺角東站黑色主幹右側的菱形端點及標籤清楚讀作「旺角政府合署」；以獨立建築節點保存。"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%97%BA%E8%A7%92%E6%94%BF%E5%BA%9C%E5%90%88%E7%BD%B2%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "building-pioneer-centre",
+    "nameZh": "始創中心",
+    "nameEn": "Pioneer Centre",
+    "category": "building",
+    "aliases": [
+      "building-pioneer-centre",
+      "pioneer-centre",
+      "始創中心",
+      "PIONEER CENTRE"
+    ],
+    "sourceId": "pioneer-centre",
+    "sourceRegion": "九龍/旺角/太子",
+    "sourceCrop": null,
+    "confidence": "high",
+    "coordinateReviewed": false,
+    "reviewStatus": "official_identity_only",
+    "officialNameEn": "Pioneer Centre",
+    "officialNameZh": "始創中心",
+    "officialAddressEn": "750 Nathan Road, Kowloon, Hong Kong",
+    "officialAddressZh": "香港九龍彌敦道750號",
+    "identitySourceUrl": "https://www.pioneer-centre.com.hk/en/location",
+    "evidence": [
+      {
+        "source": "https://www.pioneer-centre.com.hk/en/location",
+        "sourceType": "official_access",
+        "note": "Official location page gives 750 Nathan Road and lists Prince Edward B2 / Mong Kok East B3; no source-map endpoint or covered route asserted."
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A7%8B%E5%89%B5%E4%B8%AD%E5%BF%83%20%E9%A6%99%E6%B8%AF"
+  }
+]

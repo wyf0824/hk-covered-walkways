@@ -1,0 +1,3105 @@
+[
+  {
+    "id": "admiralty",
+    "nameZh": "金鐘",
+    "nameEn": "Admiralty",
+    "aliases": [
+      "adm",
+      "mtr-admiralty"
+    ],
+    "lines": [
+      "EAL",
+      "ISL",
+      "SIL",
+      "TWL"
+    ],
+    "layout": {
+      "x": 1973.1,
+      "y": 2118.4,
+      "labelAnchor": "bottom",
+      "markerShape": "stacked-interchange"
+    },
+    "sourceRefs": {
+      "networkStationId": "admiralty",
+      "layoutStationId": "admiralty",
+      "imageStationIds": [
+        "admiralty"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E9%90%98%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "airport",
+    "nameZh": "機場",
+    "nameEn": "Airport",
+    "aliases": [
+      "mtr-airport"
+    ],
+    "lines": [
+      "AEL"
+    ],
+    "layout": {
+      "x": 625.7,
+      "y": 1657,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "airport",
+      "layoutStationId": "airport",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%A9%9F%E5%A0%B4%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "asiaworld-expo",
+    "nameZh": "博覽館",
+    "nameEn": "AsiaWorld-Expo",
+    "aliases": [
+      "asiaworld",
+      "mtr-asiaworld-expo"
+    ],
+    "lines": [
+      "AEL"
+    ],
+    "layout": {
+      "x": 733.9,
+      "y": 1504.4,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "asiaworld-expo",
+      "layoutStationId": "asiaworld-expo",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8D%9A%E8%A6%BD%E9%A4%A8%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "austin",
+    "nameZh": "柯士甸",
+    "nameEn": "Austin",
+    "aliases": [
+      "mtr-austin"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 1870.2,
+      "y": 1774.9,
+      "labelAnchor": "right",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "austin",
+      "layoutStationId": "austin",
+      "imageStationIds": [
+        "austin"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9F%AF%E5%A3%AB%E7%94%B8%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "causeway-bay",
+    "nameZh": "銅鑼灣",
+    "nameEn": "Causeway Bay",
+    "aliases": [
+      "cwb",
+      "mtr-causeway-bay"
+    ],
+    "lines": [
+      "ISL"
+    ],
+    "layout": {
+      "x": 2359.7,
+      "y": 2110.2,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "causeway-bay",
+      "layoutStationId": "causeway-bay",
+      "imageStationIds": [
+        "causeway-bay"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%8A%85%E9%91%BC%E7%81%A3%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "central",
+    "nameZh": "中環",
+    "nameEn": "Central",
+    "aliases": [
+      "mtr-central"
+    ],
+    "lines": [
+      "ISL",
+      "TWL"
+    ],
+    "layout": {
+      "x": 1779.7,
+      "y": 2102.1,
+      "labelAnchor": "bottom",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "central",
+      "layoutStationId": "central",
+      "imageStationIds": [
+        "central"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E7%92%B0%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "chai-wan",
+    "nameZh": "柴灣",
+    "nameEn": "Chai Wan",
+    "aliases": [
+      "mtr-chai-wan"
+    ],
+    "lines": [
+      "ISL"
+    ],
+    "layout": {
+      "x": 3782.4,
+      "y": 2586.3,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "chai-wan",
+      "layoutStationId": "chai-wan",
+      "imageStationIds": [
+        "chai-wan"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9F%B4%E7%81%A3%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "che-kung-temple",
+    "nameZh": "車公廟",
+    "nameEn": "Che Kung Temple",
+    "aliases": [
+      "mtr-che-kung-temple"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 2742.4,
+      "y": 853.8,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "che-kung-temple",
+      "layoutStationId": "che-kung-temple",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%BB%8A%E5%85%AC%E5%BB%9F%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "cheung-sha-wan",
+    "nameZh": "長沙灣",
+    "nameEn": "Cheung Sha Wan",
+    "aliases": [
+      "mtr-cheung-sha-wan"
+    ],
+    "lines": [
+      "TWL"
+    ],
+    "layout": {
+      "x": 1824.3,
+      "y": 1197.3,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "cheung-sha-wan",
+      "layoutStationId": "cheung-sha-wan",
+      "imageStationIds": [
+        "cheung-sha-wan"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E6%B2%99%E7%81%A3%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "choi-hung",
+    "nameZh": "彩虹",
+    "nameEn": "Choi Hung",
+    "aliases": [
+      "mtr-choi-hung"
+    ],
+    "lines": [
+      "KTL"
+    ],
+    "layout": {
+      "x": 3111.1,
+      "y": 1197.3,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "choi-hung",
+      "layoutStationId": "choi-hung",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%BD%A9%E8%99%B9%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "city-one",
+    "nameZh": "第一城",
+    "nameEn": "City One",
+    "aliases": [
+      "mtr-city-one"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 2843.2,
+      "y": 518.8,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "city-one",
+      "layoutStationId": "city-one",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%AC%AC%E4%B8%80%E5%9F%8E%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "diamond-hill",
+    "nameZh": "鑽石山",
+    "nameEn": "Diamond Hill",
+    "aliases": [
+      "mtr-diamond-hill"
+    ],
+    "lines": [
+      "KTL",
+      "TML"
+    ],
+    "layout": {
+      "x": 2977.5,
+      "y": 1205.3,
+      "labelAnchor": "top",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "diamond-hill",
+      "layoutStationId": "diamond-hill",
+      "imageStationIds": [
+        "diamond-hill"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%91%BD%E7%9F%B3%E5%B1%B1%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "disneyland-resort",
+    "nameZh": "迪士尼",
+    "nameEn": "Disneyland Resort",
+    "aliases": [
+      "disneyland",
+      "mtr-disneyland-resort"
+    ],
+    "lines": [
+      "DRL"
+    ],
+    "layout": {
+      "x": 1078.3,
+      "y": 1680,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "disneyland-resort",
+      "layoutStationId": "disneyland-resort",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%BF%AA%E5%A3%AB%E5%B0%BC%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "east-tsim-sha-tsui",
+    "nameZh": "尖東",
+    "nameEn": "East Tsim Sha Tsui",
+    "aliases": [
+      "east-tst",
+      "mtr-east-tsim-sha-tsui"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 2162.6,
+      "y": 1874.3,
+      "labelAnchor": "right",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "east-tsim-sha-tsui",
+      "layoutStationId": "east-tsim-sha-tsui",
+      "imageStationIds": [
+        "east-tsim-sha-tsui"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%96%E6%9D%B1%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "exhibition-centre",
+    "nameZh": "會展",
+    "nameEn": "Exhibition Centre",
+    "aliases": [
+      "exhibition",
+      "mtr-exhibition-centre"
+    ],
+    "lines": [
+      "EAL"
+    ],
+    "layout": {
+      "x": 2225.6,
+      "y": 1918.3,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "exhibition-centre",
+      "layoutStationId": "exhibition-centre",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9C%83%E5%B1%95%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "fanling",
+    "nameZh": "粉嶺",
+    "nameEn": "Fanling",
+    "aliases": [
+      "mtr-fanling"
+    ],
+    "lines": [
+      "EAL"
+    ],
+    "layout": {
+      "x": 1798.6,
+      "y": 518.7,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "fanling",
+      "layoutStationId": "fanling",
+      "imageStationIds": [
+        "fanling"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%B2%89%E5%B6%BA%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "fo-tan",
+    "nameZh": "火炭",
+    "nameEn": "Fo Tan",
+    "aliases": [
+      "mtr-fo-tan"
+    ],
+    "lines": [
+      "EAL"
+    ],
+    "layout": {
+      "x": 2449.5,
+      "y": 707.9,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "fo-tan",
+      "layoutStationId": "fo-tan",
+      "imageStationIds": [
+        "fo-tan"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%81%AB%E7%82%AD%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "fortress-hill",
+    "nameZh": "炮台山",
+    "nameEn": "Fortress Hill",
+    "aliases": [
+      "mtr-fortress-hill"
+    ],
+    "lines": [
+      "ISL"
+    ],
+    "layout": {
+      "x": 2746.3,
+      "y": 2110.2,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "fortress-hill",
+      "layoutStationId": "fortress-hill",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%82%AE%E5%8F%B0%E5%B1%B1%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "hang-hau",
+    "nameZh": "坑口",
+    "nameEn": "Hang Hau",
+    "aliases": [
+      "mtr-hang-hau"
+    ],
+    "lines": [
+      "TKL"
+    ],
+    "layout": {
+      "x": 3782.9,
+      "y": 1330.1,
+      "labelAnchor": "right",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "hang-hau",
+      "layoutStationId": "hang-hau",
+      "imageStationIds": [
+        "hang-hau"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%9D%91%E5%8F%A3%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "heng-fa-chuen",
+    "nameZh": "杏花邨",
+    "nameEn": "Heng Fa Chuen",
+    "aliases": [
+      "mtr-heng-fa-chuen"
+    ],
+    "lines": [
+      "ISL"
+    ],
+    "layout": {
+      "x": 3782.4,
+      "y": 2421.3,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "heng-fa-chuen",
+      "layoutStationId": "heng-fa-chuen",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%8F%E8%8A%B1%E9%82%A8%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "heng-on",
+    "nameZh": "恆安",
+    "nameEn": "Heng On",
+    "aliases": [
+      "mtr-heng-on"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 3400.3,
+      "y": 518.8,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "heng-on",
+      "layoutStationId": "heng-on",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%81%86%E5%AE%89%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "hin-keng",
+    "nameZh": "顯徑",
+    "nameEn": "Hin Keng",
+    "aliases": [
+      "mtr-hin-keng"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 2681.1,
+      "y": 1065,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "hin-keng",
+      "layoutStationId": "hin-keng",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%A1%AF%E5%BE%91%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "hku",
+    "nameZh": "香港大學",
+    "nameEn": "HKU",
+    "aliases": [
+      "hk-u",
+      "mtr-hku"
+    ],
+    "lines": [
+      "ISL"
+    ],
+    "layout": {
+      "x": 1193.7,
+      "y": 2110.2,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "hku",
+      "layoutStationId": "hku",
+      "imageStationIds": [
+        "hk-u"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "ho-man-tin",
+    "nameZh": "何文田",
+    "nameEn": "Ho Man Tin",
+    "aliases": [
+      "mtr-ho-man-tin"
+    ],
+    "lines": [
+      "KTL",
+      "TML"
+    ],
+    "layout": {
+      "x": 2539.8,
+      "y": 1654.7,
+      "labelAnchor": "right",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "ho-man-tin",
+      "layoutStationId": "ho-man-tin",
+      "imageStationIds": [
+        "ho-man-tin"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BD%95%E6%96%87%E7%94%B0%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "hong-kong",
+    "nameZh": "香港",
+    "nameEn": "Hong Kong",
+    "aliases": [
+      "mtr-hong-kong"
+    ],
+    "lines": [
+      "AEL",
+      "TCL"
+    ],
+    "layout": {
+      "x": 1779.7,
+      "y": 2043.2,
+      "labelAnchor": "top",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "hong-kong",
+      "layoutStationId": "hong-kong",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E6%B8%AF%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "hung-hom",
+    "nameZh": "紅磡",
+    "nameEn": "Hung Hom",
+    "aliases": [
+      "mtr-hung-hom"
+    ],
+    "lines": [
+      "EAL",
+      "TML"
+    ],
+    "layout": {
+      "x": 2361.7,
+      "y": 1818,
+      "labelAnchor": "right",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "hung-hom",
+      "layoutStationId": "hung-hom",
+      "imageStationIds": [
+        "hung-hom"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%B4%85%E7%A3%A1%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "jordan",
+    "nameZh": "佐敦",
+    "nameEn": "Jordan",
+    "aliases": [
+      "mtr-jordan"
+    ],
+    "lines": [
+      "TWL"
+    ],
+    "layout": {
+      "x": 2093.5,
+      "y": 1661.4,
+      "labelAnchor": "right",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "jordan",
+      "layoutStationId": "jordan",
+      "imageStationIds": [
+        "jordan"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E6%95%A6%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "kai-tak",
+    "nameZh": "啟德",
+    "nameEn": "Kai Tak",
+    "aliases": [
+      "mtr-kai-tak"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 2977.5,
+      "y": 1332.9,
+      "labelAnchor": "right",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "kai-tak",
+      "layoutStationId": "kai-tak",
+      "imageStationIds": [
+        "kai-tak"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%95%9F%E5%BE%B7%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "kam-sheung-road",
+    "nameZh": "錦上路",
+    "nameEn": "Kam Sheung Road",
+    "aliases": [
+      "mtr-kam-sheung-road"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 572.7,
+      "y": 889.4,
+      "labelAnchor": "right",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "kam-sheung-road",
+      "layoutStationId": "kam-sheung-road",
+      "imageStationIds": [
+        "kam-sheung-road"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%8C%A6%E4%B8%8A%E8%B7%AF%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "kennedy-town",
+    "nameZh": "堅尼地城",
+    "nameEn": "Kennedy Town",
+    "aliases": [
+      "mtr-kennedy-town"
+    ],
+    "lines": [
+      "ISL"
+    ],
+    "layout": {
+      "x": 998.4,
+      "y": 2110.2,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "kennedy-town",
+      "layoutStationId": "kennedy-town",
+      "imageStationIds": [
+        "kennedy-town"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A0%85%E5%B0%BC%E5%9C%B0%E5%9F%8E%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "kowloon",
+    "nameZh": "九龍",
+    "nameEn": "Kowloon",
+    "aliases": [
+      "mtr-kowloon"
+    ],
+    "lines": [
+      "AEL",
+      "TCL"
+    ],
+    "layout": {
+      "x": 1476.9,
+      "y": 1774.9,
+      "labelAnchor": "top",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "kowloon",
+      "layoutStationId": "kowloon",
+      "imageStationIds": [
+        "kowloon"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B9%9D%E9%BE%8D%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "kowloon-bay",
+    "nameZh": "九龍灣",
+    "nameEn": "Kowloon Bay",
+    "aliases": [
+      "mtr-kowloon-bay"
+    ],
+    "lines": [
+      "KTL"
+    ],
+    "layout": {
+      "x": 3230.7,
+      "y": 1222.8,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "kowloon-bay",
+      "layoutStationId": "kowloon-bay",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B9%9D%E9%BE%8D%E7%81%A3%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "kowloon-tong",
+    "nameZh": "九龍塘",
+    "nameEn": "Kowloon Tong",
+    "aliases": [
+      "mtr-kowloon-tong"
+    ],
+    "lines": [
+      "EAL",
+      "KTL"
+    ],
+    "layout": {
+      "x": 2449.5,
+      "y": 1205.3,
+      "labelAnchor": "top",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "kowloon-tong",
+      "layoutStationId": "kowloon-tong",
+      "imageStationIds": [
+        "kowloon-tong"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B9%9D%E9%BE%8D%E5%A1%98%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "kwai-fong",
+    "nameZh": "葵芳",
+    "nameEn": "Kwai Fong",
+    "aliases": [
+      "mtr-kwai-fong"
+    ],
+    "lines": [
+      "TWL"
+    ],
+    "layout": {
+      "x": 1184,
+      "y": 1197.3,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "kwai-fong",
+      "layoutStationId": "kwai-fong",
+      "imageStationIds": [
+        "kwai-fong"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%91%B5%E8%8A%B3%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "kwai-hing",
+    "nameZh": "葵興",
+    "nameEn": "Kwai Hing",
+    "aliases": [
+      "mtr-kwai-hing"
+    ],
+    "lines": [
+      "TWL"
+    ],
+    "layout": {
+      "x": 1012.1,
+      "y": 1197.3,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "kwai-hing",
+      "layoutStationId": "kwai-hing",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%91%B5%E8%88%88%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "kwun-tong",
+    "nameZh": "觀塘",
+    "nameEn": "Kwun Tong",
+    "aliases": [
+      "mtr-kwun-tong"
+    ],
+    "lines": [
+      "KTL"
+    ],
+    "layout": {
+      "x": 3256.5,
+      "y": 1459,
+      "labelAnchor": "right",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "kwun-tong",
+      "layoutStationId": "kwun-tong",
+      "imageStationIds": [
+        "kwun-tong"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%A7%80%E5%A1%98%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "lai-chi-kok",
+    "nameZh": "荔枝角",
+    "nameEn": "Lai Chi Kok",
+    "aliases": [
+      "mtr-lai-chi-kok"
+    ],
+    "lines": [
+      "TWL"
+    ],
+    "layout": {
+      "x": 1656.8,
+      "y": 1197.3,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "lai-chi-kok",
+      "layoutStationId": "lai-chi-kok",
+      "imageStationIds": [
+        "lai-chi-kok"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8D%94%E6%9E%9D%E8%A7%92%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "lai-king",
+    "nameZh": "荔景",
+    "nameEn": "Lai King",
+    "aliases": [
+      "mtr-lai-king"
+    ],
+    "lines": [
+      "TCL",
+      "TWL"
+    ],
+    "layout": {
+      "x": 1342.4,
+      "y": 1205.3,
+      "labelAnchor": "top",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "lai-king",
+      "layoutStationId": "lai-king",
+      "imageStationIds": [
+        "lai-king"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8D%94%E6%99%AF%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "lam-tin",
+    "nameZh": "藍田",
+    "nameEn": "Lam Tin",
+    "aliases": [
+      "mtr-lam-tin"
+    ],
+    "lines": [
+      "KTL"
+    ],
+    "layout": {
+      "x": 3256.5,
+      "y": 1587.9,
+      "labelAnchor": "right",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "lam-tin",
+      "layoutStationId": "lam-tin",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%97%8D%E7%94%B0%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "lei-tung",
+    "nameZh": "利東",
+    "nameEn": "Lei Tung",
+    "aliases": [
+      "mtr-lei-tung"
+    ],
+    "lines": [
+      "SIL"
+    ],
+    "layout": {
+      "x": 1565.9,
+      "y": 2538.5,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "lei-tung",
+      "layoutStationId": "lei-tung",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%88%A9%E6%9D%B1%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "lo-wu",
+    "nameZh": "羅湖",
+    "nameEn": "Lo Wu",
+    "aliases": [
+      "mtr-lo-wu"
+    ],
+    "lines": [
+      "EAL"
+    ],
+    "layout": {
+      "x": 1439.7,
+      "y": 518.7,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "lo-wu",
+      "layoutStationId": "lo-wu",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%BE%85%E6%B9%96%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "lohas-park",
+    "nameZh": "康城",
+    "nameEn": "LOHAS Park",
+    "aliases": [
+      "mtr-lohas-park"
+    ],
+    "lines": [
+      "TKL"
+    ],
+    "layout": {
+      "x": 3782.4,
+      "y": 1853.8,
+      "labelAnchor": "right",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "lohas-park",
+      "layoutStationId": "lohas-park",
+      "imageStationIds": [
+        "lohas-park"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%BA%B7%E5%9F%8E%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "lok-fu",
+    "nameZh": "樂富",
+    "nameEn": "Lok Fu",
+    "aliases": [
+      "mtr-lok-fu"
+    ],
+    "lines": [
+      "KTL"
+    ],
+    "layout": {
+      "x": 2572.6,
+      "y": 1197.2,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "lok-fu",
+      "layoutStationId": "lok-fu",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E5%AF%8C%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "lok-ma-chau",
+    "nameZh": "落馬洲",
+    "nameEn": "Lok Ma Chau",
+    "aliases": [
+      "mtr-lok-ma-chau"
+    ],
+    "lines": [
+      "EAL"
+    ],
+    "layout": {
+      "x": 1319,
+      "y": 586.5,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "lok-ma-chau",
+      "layoutStationId": "lok-ma-chau",
+      "imageStationIds": [
+        "lok-ma-chau"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%90%BD%E9%A6%AC%E6%B4%B2%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "long-ping",
+    "nameZh": "朗屏",
+    "nameEn": "Long Ping",
+    "aliases": [
+      "mtr-long-ping"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 564.6,
+      "y": 625.5,
+      "labelAnchor": "right",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "long-ping",
+      "layoutStationId": "long-ping",
+      "imageStationIds": [
+        "long-ping"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9C%97%E5%B1%8F%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "ma-on-shan",
+    "nameZh": "馬鞍山",
+    "nameEn": "Ma On Shan",
+    "aliases": [
+      "mtr-ma-on-shan"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 3586,
+      "y": 518.8,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "ma-on-shan",
+      "layoutStationId": "ma-on-shan",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%A6%AC%E9%9E%8D%E5%B1%B1%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "mei-foo",
+    "nameZh": "美孚",
+    "nameEn": "Mei Foo",
+    "aliases": [
+      "mtr-mei-foo"
+    ],
+    "lines": [
+      "TML",
+      "TWL"
+    ],
+    "layout": {
+      "x": 1501.1,
+      "y": 1205.3,
+      "labelAnchor": "top",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "mei-foo",
+      "layoutStationId": "mei-foo",
+      "imageStationIds": [
+        "mei-foo"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E5%AD%9A%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "mong-kok",
+    "nameZh": "旺角",
+    "nameEn": "Mong Kok",
+    "aliases": [
+      "mongkok",
+      "mtr-mong-kok"
+    ],
+    "lines": [
+      "KTL",
+      "TWL"
+    ],
+    "layout": {
+      "x": 2101.7,
+      "y": 1427.4,
+      "labelAnchor": "right",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "mong-kok",
+      "layoutStationId": "mong-kok",
+      "imageStationIds": [
+        "mong-kok"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%97%BA%E8%A7%92%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "mong-kok-east",
+    "nameZh": "旺角東",
+    "nameEn": "Mong Kok East",
+    "aliases": [
+      "mongkok-east",
+      "mtr-mong-kok-east"
+    ],
+    "lines": [
+      "EAL"
+    ],
+    "layout": {
+      "x": 2449.5,
+      "y": 1437.2,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "mong-kok-east",
+      "layoutStationId": "mong-kok-east",
+      "imageStationIds": [
+        "mong-kok-east"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%97%BA%E8%A7%92%E6%9D%B1%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "nam-cheong",
+    "nameZh": "南昌",
+    "nameEn": "Nam Cheong",
+    "aliases": [
+      "mtr-nam-cheong"
+    ],
+    "lines": [
+      "TCL",
+      "TML"
+    ],
+    "layout": {
+      "x": 1493.2,
+      "y": 1363.1,
+      "labelAnchor": "top",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "nam-cheong",
+      "layoutStationId": "nam-cheong",
+      "imageStationIds": [
+        "nam-cheong"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E6%98%8C%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "ngau-tau-kok",
+    "nameZh": "牛頭角",
+    "nameEn": "Ngau Tau Kok",
+    "aliases": [
+      "mtr-ngau-tau-kok"
+    ],
+    "lines": [
+      "KTL"
+    ],
+    "layout": {
+      "x": 3256.5,
+      "y": 1330.1,
+      "labelAnchor": "right",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "ngau-tau-kok",
+      "layoutStationId": "ngau-tau-kok",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%89%9B%E9%A0%AD%E8%A7%92%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "north-point",
+    "nameZh": "北角",
+    "nameEn": "North Point",
+    "aliases": [
+      "mtr-north-point"
+    ],
+    "lines": [
+      "ISL",
+      "TKL"
+    ],
+    "layout": {
+      "x": 2939.7,
+      "y": 2102.1,
+      "labelAnchor": "bottom",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "north-point",
+      "layoutStationId": "north-point",
+      "imageStationIds": [
+        "north-point"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E8%A7%92%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "ocean-park",
+    "nameZh": "海洋公園",
+    "nameEn": "Ocean Park",
+    "aliases": [
+      "mtr-ocean-park"
+    ],
+    "lines": [
+      "SIL"
+    ],
+    "layout": {
+      "x": 2093.5,
+      "y": 2313.5,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "ocean-park",
+      "layoutStationId": "ocean-park",
+      "imageStationIds": [
+        "ocean-park"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "olympic",
+    "nameZh": "奧運",
+    "nameEn": "Olympic",
+    "aliases": [
+      "mtr-olympic"
+    ],
+    "lines": [
+      "TCL"
+    ],
+    "layout": {
+      "x": 1485,
+      "y": 1589.8,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "olympic",
+      "layoutStationId": "olympic",
+      "imageStationIds": [
+        "olympic"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A5%A7%E9%81%8B%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "po-lam",
+    "nameZh": "寶琳",
+    "nameEn": "Po Lam",
+    "aliases": [
+      "mtr-po-lam"
+    ],
+    "lines": [
+      "TKL"
+    ],
+    "layout": {
+      "x": 3782.9,
+      "y": 1492.1,
+      "labelAnchor": "right",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "po-lam",
+      "layoutStationId": "po-lam",
+      "imageStationIds": [
+        "po-lam"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%AF%B6%E7%90%B3%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "prince-edward",
+    "nameZh": "太子",
+    "nameEn": "Prince Edward",
+    "aliases": [
+      "mtr-prince-edward"
+    ],
+    "lines": [
+      "KTL",
+      "TWL"
+    ],
+    "layout": {
+      "x": 2101.7,
+      "y": 1310.3,
+      "labelAnchor": "right",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "prince-edward",
+      "layoutStationId": "prince-edward",
+      "imageStationIds": [
+        "prince-edward"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%AA%E5%AD%90%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "quarry-bay",
+    "nameZh": "鰂魚涌",
+    "nameEn": "Quarry Bay",
+    "aliases": [
+      "mtr-quarry-bay"
+    ],
+    "lines": [
+      "ISL",
+      "TKL"
+    ],
+    "layout": {
+      "x": 3133,
+      "y": 2102.1,
+      "labelAnchor": "bottom",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "quarry-bay",
+      "layoutStationId": "quarry-bay",
+      "imageStationIds": [
+        "quarry-bay"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%B0%82%E9%AD%9A%E6%B6%8C%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "racecourse",
+    "nameZh": "馬場",
+    "nameEn": "Racecourse",
+    "aliases": [
+      "mtr-racecourse"
+    ],
+    "lines": [
+      "EAL"
+    ],
+    "layout": {
+      "x": 2515.3,
+      "y": 707.9,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "racecourse",
+      "layoutStationId": "racecourse",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%A6%AC%E5%A0%B4%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "sai-wan-ho",
+    "nameZh": "西灣河",
+    "nameEn": "Sai Wan Ho",
+    "aliases": [
+      "mtr-sai-wan-ho"
+    ],
+    "lines": [
+      "ISL"
+    ],
+    "layout": {
+      "x": 3519.7,
+      "y": 2110.2,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "sai-wan-ho",
+      "layoutStationId": "sai-wan-ho",
+      "imageStationIds": [
+        "sai-wan-ho"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%A5%BF%E7%81%A3%E6%B2%B3%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "sai-ying-pun",
+    "nameZh": "西營盤",
+    "nameEn": "Sai Ying Pun",
+    "aliases": [
+      "mtr-sai-ying-pun"
+    ],
+    "lines": [
+      "ISL"
+    ],
+    "layout": {
+      "x": 1389,
+      "y": 2110.2,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "sai-ying-pun",
+      "layoutStationId": "sai-ying-pun",
+      "imageStationIds": [
+        "sai-ying-pun"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%A5%BF%E7%87%9F%E7%9B%A4%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "sha-tin",
+    "nameZh": "沙田",
+    "nameEn": "Sha Tin",
+    "aliases": [
+      "mtr-sha-tin"
+    ],
+    "lines": [
+      "EAL"
+    ],
+    "layout": {
+      "x": 2449.5,
+      "y": 853.7,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "sha-tin",
+      "layoutStationId": "sha-tin",
+      "imageStationIds": [
+        "sha-tin"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%B2%99%E7%94%B0%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "sha-tin-wai",
+    "nameZh": "沙田圍",
+    "nameEn": "Sha Tin Wai",
+    "aliases": [
+      "mtr-sha-tin-wai"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 2742.4,
+      "y": 707.9,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "sha-tin-wai",
+      "layoutStationId": "sha-tin-wai",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%B2%99%E7%94%B0%E5%9C%8D%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "sham-shui-po",
+    "nameZh": "深水埗",
+    "nameEn": "Sham Shui Po",
+    "aliases": [
+      "mtr-sham-shui-po"
+    ],
+    "lines": [
+      "TWL"
+    ],
+    "layout": {
+      "x": 1991.8,
+      "y": 1197.3,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "sham-shui-po",
+      "layoutStationId": "sham-shui-po",
+      "imageStationIds": [
+        "sham-shui-po"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%B7%B1%E6%B0%B4%E5%9F%97%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "shau-kei-wan",
+    "nameZh": "筲箕灣",
+    "nameEn": "Shau Kei Wan",
+    "aliases": [
+      "mtr-shau-kei-wan"
+    ],
+    "lines": [
+      "ISL"
+    ],
+    "layout": {
+      "x": 3700.6,
+      "y": 2246.2,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "shau-kei-wan",
+      "layoutStationId": "shau-kei-wan",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%AD%B2%E7%AE%95%E7%81%A3%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "shek-kip-mei",
+    "nameZh": "石硤尾",
+    "nameEn": "Shek Kip Mei",
+    "aliases": [
+      "mtr-shek-kip-mei"
+    ],
+    "lines": [
+      "KTL"
+    ],
+    "layout": {
+      "x": 2211.1,
+      "y": 1197.2,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "shek-kip-mei",
+      "layoutStationId": "shek-kip-mei",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E7%A1%A4%E5%B0%BE%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "shek-mun",
+    "nameZh": "石門",
+    "nameEn": "Shek Mun",
+    "aliases": [
+      "mtr-shek-mun"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 3028.9,
+      "y": 518.8,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "shek-mun",
+      "layoutStationId": "shek-mun",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E9%96%80%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "sheung-shui",
+    "nameZh": "上水",
+    "nameEn": "Sheung Shui",
+    "aliases": [
+      "mtr-sheung-shui"
+    ],
+    "lines": [
+      "EAL"
+    ],
+    "layout": {
+      "x": 1619.1,
+      "y": 526.7,
+      "labelAnchor": "bottom",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "sheung-shui",
+      "layoutStationId": "sheung-shui",
+      "imageStationIds": [
+        "sheung-shui"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8A%E6%B0%B4%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "sheung-wan",
+    "nameZh": "上環",
+    "nameEn": "Sheung Wan",
+    "aliases": [
+      "mtr-sheung-wan"
+    ],
+    "lines": [
+      "ISL"
+    ],
+    "layout": {
+      "x": 1584.4,
+      "y": 2110.2,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "sheung-wan",
+      "layoutStationId": "sheung-wan",
+      "imageStationIds": [
+        "sheung-wan"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8A%E7%92%B0%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "siu-hong",
+    "nameZh": "兆康",
+    "nameEn": "Siu Hong",
+    "aliases": [
+      "mtr-siu-hong"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 430.7,
+      "y": 749,
+      "labelAnchor": "right",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "siu-hong",
+      "layoutStationId": "siu-hong",
+      "imageStationIds": [
+        "siu-hong"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%85%86%E5%BA%B7%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "south-horizons",
+    "nameZh": "海怡半島",
+    "nameEn": "South Horizons",
+    "aliases": [
+      "mtr-south-horizons"
+    ],
+    "lines": [
+      "SIL"
+    ],
+    "layout": {
+      "x": 1309.5,
+      "y": 2538.5,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "south-horizons",
+      "layoutStationId": "south-horizons",
+      "imageStationIds": [
+        "south-horizons"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E6%80%A1%E5%8D%8A%E5%B3%B6%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "sung-wong-toi",
+    "nameZh": "宋皇臺",
+    "nameEn": "Sung Wong Toi",
+    "aliases": [
+      "mtr-sung-wong-toi"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 2903.1,
+      "y": 1483,
+      "labelAnchor": "right",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "sung-wong-toi",
+      "layoutStationId": "sung-wong-toi",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%AE%8B%E7%9A%87%E8%87%BA%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "sunny-bay",
+    "nameZh": "欣澳",
+    "nameEn": "Sunny Bay",
+    "aliases": [
+      "mtr-sunny-bay"
+    ],
+    "lines": [
+      "DRL",
+      "TCL"
+    ],
+    "layout": {
+      "x": 959.5,
+      "y": 1539.3,
+      "labelAnchor": "top",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "sunny-bay",
+      "layoutStationId": "sunny-bay",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%AC%A3%E6%BE%B3%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "tai-koo",
+    "nameZh": "太古",
+    "nameEn": "Tai Koo",
+    "aliases": [
+      "mtr-tai-koo"
+    ],
+    "lines": [
+      "ISL"
+    ],
+    "layout": {
+      "x": 3326.3,
+      "y": 2110.2,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "tai-koo",
+      "layoutStationId": "tai-koo",
+      "imageStationIds": [
+        "tai-koo"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%AA%E5%8F%A4%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "tai-po-market",
+    "nameZh": "大埔墟",
+    "nameEn": "Tai Po Market",
+    "aliases": [
+      "mtr-tai-po-market"
+    ],
+    "lines": [
+      "EAL"
+    ],
+    "layout": {
+      "x": 2157.5,
+      "y": 518.7,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "tai-po-market",
+      "layoutStationId": "tai-po-market",
+      "imageStationIds": [
+        "tai-po-market"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%9F%94%E5%A2%9F%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "tai-shui-hang",
+    "nameZh": "大水坑",
+    "nameEn": "Tai Shui Hang",
+    "aliases": [
+      "mtr-tai-shui-hang"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 3214.6,
+      "y": 518.8,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "tai-shui-hang",
+      "layoutStationId": "tai-shui-hang",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%B0%B4%E5%9D%91%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "tai-wai",
+    "nameZh": "大圍",
+    "nameEn": "Tai Wai",
+    "aliases": [
+      "mtr-tai-wai"
+    ],
+    "lines": [
+      "EAL",
+      "TML"
+    ],
+    "layout": {
+      "x": 2457.6,
+      "y": 998.5,
+      "labelAnchor": "bottom",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "tai-wai",
+      "layoutStationId": "tai-wai",
+      "imageStationIds": [
+        "tai-wai"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%9C%8D%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "tai-wo",
+    "nameZh": "太和",
+    "nameEn": "Tai Wo",
+    "aliases": [
+      "mtr-tai-wo"
+    ],
+    "lines": [
+      "EAL"
+    ],
+    "layout": {
+      "x": 1978,
+      "y": 518.7,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "tai-wo",
+      "layoutStationId": "tai-wo",
+      "imageStationIds": [
+        "tai-wo"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%AA%E5%92%8C%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "tai-wo-hau",
+    "nameZh": "大窩口",
+    "nameEn": "Tai Wo Hau",
+    "aliases": [
+      "mtr-tai-wo-hau"
+    ],
+    "lines": [
+      "TWL"
+    ],
+    "layout": {
+      "x": 840.3,
+      "y": 1197.3,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "tai-wo-hau",
+      "layoutStationId": "tai-wo-hau",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%AA%A9%E5%8F%A3%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "tin-hau",
+    "nameZh": "天后",
+    "nameEn": "Tin Hau",
+    "aliases": [
+      "mtr-tin-hau"
+    ],
+    "lines": [
+      "ISL"
+    ],
+    "layout": {
+      "x": 2553,
+      "y": 2110.2,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "tin-hau",
+      "layoutStationId": "tin-hau",
+      "imageStationIds": [
+        "tin-hau"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E5%90%8E%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "tin-shui-wai",
+    "nameZh": "天水圍",
+    "nameEn": "Tin Shui Wai",
+    "aliases": [
+      "mtr-tin-shui-wai"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 505.8,
+      "y": 502.3,
+      "labelAnchor": "right",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "tin-shui-wai",
+      "layoutStationId": "tin-shui-wai",
+      "imageStationIds": [
+        "tin-shui-wai"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E6%B0%B4%E5%9C%8D%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "tiu-keng-leng",
+    "nameZh": "調景嶺",
+    "nameEn": "Tiu Keng Leng",
+    "aliases": [
+      "mtr-tiu-keng-leng"
+    ],
+    "lines": [
+      "KTL",
+      "TKL"
+    ],
+    "layout": {
+      "x": 3519.8,
+      "y": 1702.7,
+      "labelAnchor": "top",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "tiu-keng-leng",
+      "layoutStationId": "tiu-keng-leng",
+      "imageStationIds": [
+        "tiu-keng-leng"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%AA%BF%E6%99%AF%E5%B6%BA%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "to-kwa-wan",
+    "nameZh": "土瓜灣",
+    "nameEn": "To Kwa Wan",
+    "aliases": [
+      "mtr-to-kwa-wan"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 2798.2,
+      "y": 1587.9,
+      "labelAnchor": "right",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "to-kwa-wan",
+      "layoutStationId": "to-kwa-wan",
+      "imageStationIds": [
+        "to-kwa-wan"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%9C%9F%E7%93%9C%E7%81%A3%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "tseung-kwan-o",
+    "nameZh": "將軍澳",
+    "nameEn": "Tseung Kwan O",
+    "aliases": [
+      "mtr-tseung-kwan-o",
+      "tko"
+    ],
+    "lines": [
+      "TKL"
+    ],
+    "layout": {
+      "x": 3685.5,
+      "y": 1718.7,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "tseung-kwan-o",
+      "layoutStationId": "tseung-kwan-o",
+      "imageStationIds": [
+        "tseung-kwan-o"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%87%E8%BB%8D%E6%BE%B3%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "tsim-sha-tsui",
+    "nameZh": "尖沙咀",
+    "nameEn": "Tsim Sha Tsui",
+    "aliases": [
+      "mtr-tsim-sha-tsui",
+      "tst"
+    ],
+    "lines": [
+      "TWL"
+    ],
+    "layout": {
+      "x": 2093.5,
+      "y": 1801.9,
+      "labelAnchor": "right",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "tsim-sha-tsui",
+      "layoutStationId": "tsim-sha-tsui",
+      "imageStationIds": [
+        "tsim-sha-tsui"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%96%E6%B2%99%E5%92%80%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "tsing-yi",
+    "nameZh": "青衣",
+    "nameEn": "Tsing Yi",
+    "aliases": [
+      "mtr-tsing-yi"
+    ],
+    "lines": [
+      "AEL",
+      "TCL"
+    ],
+    "layout": {
+      "x": 1135.9,
+      "y": 1339.9,
+      "labelAnchor": "top",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "tsing-yi",
+      "layoutStationId": "tsing-yi",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E8%A1%A3%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "tsuen-wan",
+    "nameZh": "荃灣",
+    "nameEn": "Tsuen Wan",
+    "aliases": [
+      "mtr-tsuen-wan"
+    ],
+    "lines": [
+      "TWL"
+    ],
+    "layout": {
+      "x": 640.5,
+      "y": 1197.3,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "tsuen-wan",
+      "layoutStationId": "tsuen-wan",
+      "imageStationIds": [
+        "tsuen-wan"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8D%83%E7%81%A3%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "tsuen-wan-west",
+    "nameZh": "荃灣西",
+    "nameEn": "Tsuen Wan West",
+    "aliases": [
+      "mtr-tsuen-wan-west"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 640.5,
+      "y": 1048.8,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "tsuen-wan-west",
+      "layoutStationId": "tsuen-wan-west",
+      "imageStationIds": [
+        "tsuen-wan-west"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8D%83%E7%81%A3%E8%A5%BF%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "tuen-mun",
+    "nameZh": "屯門",
+    "nameEn": "Tuen Mun",
+    "aliases": [
+      "mtr-tuen-mun"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 430.7,
+      "y": 944,
+      "labelAnchor": "right",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "tuen-mun",
+      "layoutStationId": "tuen-mun",
+      "imageStationIds": [
+        "tuen-mun"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B1%AF%E9%96%80%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "tung-chung",
+    "nameZh": "東涌",
+    "nameEn": "Tung Chung",
+    "aliases": [
+      "mtr-tung-chung"
+    ],
+    "lines": [
+      "TCL"
+    ],
+    "layout": {
+      "x": 706.5,
+      "y": 1780.7,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "tung-chung",
+      "layoutStationId": "tung-chung",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%B6%8C%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "university",
+    "nameZh": "大學",
+    "nameEn": "University",
+    "aliases": [
+      "mtr-university"
+    ],
+    "lines": [
+      "EAL"
+    ],
+    "layout": {
+      "x": 2364.3,
+      "y": 518.7,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "university",
+      "layoutStationId": "university",
+      "imageStationIds": [
+        "university"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%AD%B8%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "wan-chai",
+    "nameZh": "灣仔",
+    "nameEn": "Wan Chai",
+    "aliases": [
+      "mtr-wan-chai",
+      "wanchai"
+    ],
+    "lines": [
+      "ISL"
+    ],
+    "layout": {
+      "x": 2162.6,
+      "y": 2110.2,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "wan-chai",
+      "layoutStationId": "wan-chai",
+      "imageStationIds": [
+        "wan-chai"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%81%A3%E4%BB%94%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "whampoa",
+    "nameZh": "黃埔",
+    "nameEn": "Whampoa",
+    "aliases": [
+      "mtr-whampoa"
+    ],
+    "lines": [
+      "KTL"
+    ],
+    "layout": {
+      "x": 2700.1,
+      "y": 1717.5,
+      "labelAnchor": "right",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "whampoa",
+      "layoutStationId": "whampoa",
+      "imageStationIds": [
+        "whampoa"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%BB%83%E5%9F%94%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "wong-chuk-hang",
+    "nameZh": "黃竹坑",
+    "nameEn": "Wong Chuk Hang",
+    "aliases": [
+      "mtr-wong-chuk-hang"
+    ],
+    "lines": [
+      "SIL"
+    ],
+    "layout": {
+      "x": 1860.3,
+      "y": 2417.7,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "wong-chuk-hang",
+      "layoutStationId": "wong-chuk-hang",
+      "imageStationIds": [
+        "wong-chuk-hang"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%BB%83%E7%AB%B9%E5%9D%91%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "wong-tai-sin",
+    "nameZh": "黃大仙",
+    "nameEn": "Wong Tai Sin",
+    "aliases": [
+      "mtr-wong-tai-sin"
+    ],
+    "lines": [
+      "KTL"
+    ],
+    "layout": {
+      "x": 2707.1,
+      "y": 1197.2,
+      "labelAnchor": "top",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "wong-tai-sin",
+      "layoutStationId": "wong-tai-sin",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E9%BB%83%E5%A4%A7%E4%BB%99%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "wu-kai-sha",
+    "nameZh": "烏溪沙",
+    "nameEn": "Wu Kai Sha",
+    "aliases": [
+      "mtr-wu-kai-sha"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 3771.7,
+      "y": 518.8,
+      "labelAnchor": "bottom",
+      "markerShape": "single-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "wu-kai-sha",
+      "layoutStationId": "wu-kai-sha",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E7%83%8F%E6%BA%AA%E6%B2%99%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "yau-ma-tei",
+    "nameZh": "油麻地",
+    "nameEn": "Yau Ma Tei",
+    "aliases": [
+      "mtr-yau-ma-tei"
+    ],
+    "lines": [
+      "KTL",
+      "TWL"
+    ],
+    "layout": {
+      "x": 2101.7,
+      "y": 1544.4,
+      "labelAnchor": "right",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "yau-ma-tei",
+      "layoutStationId": "yau-ma-tei",
+      "imageStationIds": [
+        "yau-ma-tei"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%B2%B9%E9%BA%BB%E5%9C%B0%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "yau-tong",
+    "nameZh": "油塘",
+    "nameEn": "Yau Tong",
+    "aliases": [
+      "mtr-yau-tong"
+    ],
+    "lines": [
+      "KTL",
+      "TKL"
+    ],
+    "layout": {
+      "x": 3354.2,
+      "y": 1702.7,
+      "labelAnchor": "top",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "yau-tong",
+      "layoutStationId": "yau-tong",
+      "imageStationIds": []
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E6%B2%B9%E5%A1%98%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  },
+  {
+    "id": "yuen-long",
+    "nameZh": "元朗",
+    "nameEn": "Yuen Long",
+    "aliases": [
+      "mtr-yuen-long"
+    ],
+    "lines": [
+      "TML"
+    ],
+    "layout": {
+      "x": 564.6,
+      "y": 748.9,
+      "labelAnchor": "right",
+      "markerShape": "double-ring"
+    },
+    "sourceRefs": {
+      "networkStationId": "yuen-long",
+      "layoutStationId": "yuen-long",
+      "imageStationIds": [
+        "yuen-long"
+      ]
+    },
+    "reviewStatus": "source_verified",
+    "evidence": [
+      {
+        "source": "mtr-network-data/network.json",
+        "kind": "official_station_sequence"
+      }
+    ],
+    "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=%E5%85%83%E6%9C%97%20%E6%B8%AF%E9%90%B5%E7%AB%99%20%E9%A6%99%E6%B8%AF"
+  }
+]

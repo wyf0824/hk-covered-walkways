@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "1.0",
+  "place": {
+    "nameZh": "又一城",
+    "nameEn": "Festival Walk",
+    "category": "shopping_mall",
+    "officialAddress": "Festival Walk Management Office, Level 3, Festival Walk Tower, 80 Tat Chee Avenue, Kowloon Tong, Kowloon, Hong Kong",
+    "addressScope": "Official mall-address field for the management office; exact public entrance was not separately verified."
+  },
+  "station": {
+    "nameZh": "九龙塘",
+    "nameEn": "Kowloon Tong",
+    "lines": ["Kwun Tong Line", "East Rail Line"],
+    "mallSiteExitWording": "Exit C",
+    "mtrStreetMapWayfindingIndex": {
+      "exitsListedForFestivalWalk": ["C2", "G", "H"],
+      "gridReference": "X4",
+      "interpretation": "Wayfinding index only; it does not establish a covered route or which entrance is best for the mall."
+    }
+  },
+  "connectionEvidence": {
+    "directAccess": {
+      "status": "officially_reported",
+      "source": "Hong Kong Home Affairs Department, Hong Kong Fun in 18 Districts",
+      "url": "https://www.gohk.gov.hk/en/spots/spot_detail.php?spot=Festival%20Walk",
+      "quote": "Festival Walk at Tat Chee Avenue in Kowloon Tong and with a direct access to Kowloon Tong MTR Station"
+    },
+    "coveredRoute": {
+      "status": "not_verified",
+      "reason": "The official mall page identifies Exit C and the government page reports direct access, but neither specifies a continuously covered passage. Exit or direct-access evidence is not treated as proof of rain protection."
+    }
+  },
+  "evidence": [
+    {
+      "claim": "official_mall_address",
+      "status": "verified",
+      "source": "Festival Walk official Contact Us page",
+      "url": "https://www.festivalwalk.com.hk/en/contact-us",
+      "quote": "Mall Address Festival Walk Management Office, Level 3, Festival Walk Tower, 80 Tat Chee Avenue, Kowloon Tong, Kowloon, Hong Kong"
+    },
+    {
+      "claim": "mtr_station_exit_as_stated_by_mall",
+      "status": "verified",
+      "source": "Festival Walk official Visit Us page, MTR section",
+      "url": "https://www.festivalwalk.com.hk/en/visit-us",
+      "quote": "Exit C, Kowloon Tong Station (connected to MTR Kwun Tong Line and East Rail Line)"
+    },
+    {
+      "claim": "mtr_official_station_wayfinding_index",
+      "status": "cross_checked",
+      "source": "MTR Kowloon Tong Station street map, Leisure / Shopping index",
+      "url": "https://www.mtr.com.hk/archive/en/services/maps/kot.pdf",
+      "visualReading": "The Festival Walk row lists exit cells C2, G and H and grid reference X4.",
+      "note": "Visual wayfinding index; not evidence of covered passage continuity."
+    },
+    {
+      "claim": "direct_station_access",
+      "status": "officially_reported",
+      "source": "Hong Kong Home Affairs Department, Hong Kong Fun in 18 Districts",
+      "url": "https://www.gohk.gov.hk/en/spots/spot_detail.php?spot=Festival%20Walk",
+      "quote": "Festival Walk at Tat Chee Avenue in Kowloon Tong and with a direct access to Kowloon Tong MTR Station"
+    }
+  ],
+  "mapRecommendation": {
+    "description": "又一城 Festival Walk · 80 Tat Chee Avenue, Kowloon Tong · 商场资料列出九龙塘站 C 出口；政府资料称可直接到达车站。有盖通道尚未核实。",
+    "directAccessLabel": "officially reported direct access",
+    "coveredStatus": "unverified",
+    "showUmbrellaMarker": false,
+    "drawConnectionLine": false,
+    "coordinates": null,
+    "geometry": null,
+    "caveat": "Do not reuse the approximate Festival Walk coordinate or full-coverage claim in the project's older data/map-data.md. That record is absent from the current station-mall graph and was not treated as verification."
+  },
+  "checkedAt": "2026-09-29",
+  "method": "Read the mall operator's official Contact Us and Visit Us pages, the MTR official Kowloon Tong street map, and the Hong Kong Home Affairs Department attraction page in an independent Edge research tab. No Google My Maps tab or map content was edited."
+}
