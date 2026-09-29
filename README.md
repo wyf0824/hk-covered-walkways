@@ -4,6 +4,7 @@
 
 - [車站清單](STATIONS.md) · [地點清單](PLACES.md)
 - 完整資料：[網絡圖 JSON](data/station-mall-graph.json) · [車站 JSON](data/stations.json) · [地點 JSON](data/places.json)
+- Google Maps 接入：[中文使用指南](google-maps/instructions.md) · [車站 CSV](google-maps/stations.csv) · [地點 CSV](google-maps/places.csv)
 - [官方資料核對](data/official-checks.json) · [又一城核對說明](data/festival-walk-verification.md) · [資料欄位說明](data/schema-reference.md)
 - 可重用技能：[SKILL.md](skills/hk-covered-walkways/SKILL.md)。安裝時把 [`skills/hk-covered-walkways/`](skills/hk-covered-walkways/) 整個資料夾複製到 Codex skills 目錄（`$CODEX_HOME/skills/`）。
 
